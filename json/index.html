@@ -336,6 +336,7 @@
             const naechsteBtn = document.createElement("button");
             naechsteBtn.textContent = "Nächste Frage";
             naechsteBtn.id = "naechsteBtn";
+            naechsteBtn.className = "btn btn-primary mt-3";
             naechsteBtn.onclick = () => {
               naechsteBtn.disabled = true;
               ladeNaechsteAufgabe();

@@ -104,8 +104,8 @@
     },
     {
       "frage": "Berechne: √(81/9)",
-      "antworten": ["3", "9", "√9"],
-      "richtig": 2,
+      "antworten": ["3", "9", "√3"],
+      "richtig": 0,
       "hinweis": "81/9 = 9, √9 = 3"
     },
     {
