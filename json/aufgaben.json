@@ -1,0 +1,32 @@
+{
+  "leicht": [
+    {
+      "frage": "Ist die Zahl 5 ganzzahlig?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 0,
+      "hinweis": "Eine ganze Zahl hat keinen Dezimalanteil."
+    },
+    {
+      "frage": "Ist -3 eine rationale Zahl?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 0,
+      "hinweis": "Rationale Zahlen sind Brüche oder ganze Zahlen."
+    }
+  ],
+  "mittel": [
+    {
+      "frage": "Ist die Zahl 2.5 rational?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 0,
+      "hinweis": "Dezimalzahlen mit endlicher Nachkommastelle sind rational."
+    }
+  ],
+  "schwer": [
+    {
+      "frage": "Ist pi eine rationale Zahl?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 1,
+      "hinweis": "Pi ist eine irrationale Zahl."
+    }
+  ]
+}

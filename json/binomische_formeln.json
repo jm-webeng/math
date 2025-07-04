@@ -1,0 +1,354 @@
+{
+  "mittel": [
+    {
+      "frage": "Berechne: (3 + 5)²",
+      "antworten": ["10 + 30 + 25", "9 + 30 + 25", "13 + 30 + 25"],
+      "richtig": 1,
+      "hinweis": "1. binomische Formel: (a + b)² = a² + 2ab + b²"
+    },
+    {
+      "frage": "Berechne: (4 + 2)²",
+      "antworten": ["19 + 16 + 4", "20 + 16 + 4", "16 + 16 + 4"],
+      "richtig": 2,
+      "hinweis": "1. binomische Formel: (a + b)² = a² + 2ab + b²"
+    },
+    {
+      "frage": "Berechne: (4 + 2)(4 - 2)",
+      "antworten": ["21 + 16 + 4", "16 - 4", "18 + 16 + 4"],
+      "richtig": 1,
+      "hinweis": "3. binomische Formel: (a + b)(a - b) = a² - b²"
+    },
+    {
+      "frage": "Berechne: (5 - 2)²",
+      "antworten": ["9 - 20 + 4", "25 - 20 + 4", "10 - 20 + 4"],
+      "richtig": 1,
+      "hinweis": "2. binomische Formel: (a - b)² = a² - 2ab + b²"
+    },
+    {
+      "frage": "Berechne: (6 + 3)²",
+      "antworten": ["36 + 54 + 9", "35 + 54 + 9", "34 + 54 + 9"],
+      "richtig": 0,
+      "hinweis": "1. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (8 - 3)²",
+      "antworten": ["64 - 48 + 9", "49 - 48 + 9", "64 - 48 + 16"],
+      "richtig": 0,
+      "hinweis": "2. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (6 + 2)(6 - 2)",
+      "antworten": ["36 - 4", "36 - 16", "40 - 4"],
+      "richtig": 0,
+      "hinweis": "3. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (7 + 2)²",
+      "antworten": ["49 + 36 + 4", "49 + 28 + 4", "49 + 28 + 9"],
+      "richtig": 2,
+      "hinweis": "1. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (9 - 4)²",
+      "antworten": ["81 - 72 + 16", "81 - 72 + 4", "81 - 72 + 25"],
+      "richtig": 2,
+      "hinweis": "2. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (5 + 4)(5 - 4)",
+      "antworten": ["25 - 16", "25 - 9", "25 - 4"],
+      "richtig": 0,
+      "hinweis": "3. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (2 + 7)²",
+      "antworten": ["4 + 28 + 49", "4 + 14 + 49", "49 + 28 + 4"],
+      "richtig": 1,
+      "hinweis": "1. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (3 - 1)²",
+      "antworten": ["9 - 6 + 1", "9 - 4 + 1", "9 - 6 + 4"],
+      "richtig": 0,
+      "hinweis": "2. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (7 + 1)(7 - 1)",
+      "antworten": ["49 - 1", "49 - 4", "49 - 9"],
+      "richtig": 0,
+      "hinweis": "3. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (3 + 6)²",
+      "antworten": ["9 + 36 + 36", "9 + 36 + 25", "9 + 36 + 36"],
+      "richtig": 0,
+      "hinweis": "1. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (6 - 2)²",
+      "antworten": ["36 - 24 + 4", "36 - 16 + 4", "36 - 24 + 9"],
+      "richtig": 0,
+      "hinweis": "2. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (5 + 3)(5 - 3)",
+      "antworten": ["25 - 4", "25 - 9", "25 - 6"],
+      "richtig": 1,
+      "hinweis": "3. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (2 + 6)²",
+      "antworten": ["4 + 32 + 36", "4 + 28 + 36", "4 + 32 + 36"],
+      "richtig": 0,
+      "hinweis": "1. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (9 - 2)²",
+      "antworten": ["81 - 36 + 4", "81 - 36 + 49", "81 - 36 + 16"],
+      "richtig": 2,
+      "hinweis": "2. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (6 + 1)(6 - 1)",
+      "antworten": ["36 - 1", "36 - 4", "36 - 9"],
+      "richtig": 0,
+      "hinweis": "3. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (3 + 4)²",
+      "antworten": ["9 + 24 + 16", "9 + 21 + 16", "9 + 28 + 16"],
+      "richtig": 0,
+      "hinweis": "1. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (7 - 3)²",
+      "antworten": ["49 - 42 + 9", "49 - 36 + 9", "49 - 42 + 16"],
+      "richtig": 1,
+      "hinweis": "2. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (8 + 1)(8 - 1)",
+      "antworten": ["64 - 1", "64 - 4", "64 - 9"],
+      "richtig": 0,
+      "hinweis": "3. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (4 + 5)²",
+      "antworten": ["16 + 40 + 25", "16 + 30 + 25", "16 + 36 + 25"],
+      "richtig": 0,
+      "hinweis": "1. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (7 - 2)²",
+      "antworten": ["49 - 28 + 4", "49 - 28 + 16", "49 - 28 + 25"],
+      "richtig": 0,
+      "hinweis": "2. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (9 + 1)(9 - 1)",
+      "antworten": ["81 - 4", "81 - 1", "81 - 16"],
+      "richtig": 1,
+      "hinweis": "3. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (1 + 2)²",
+      "antworten": ["1 + 4 + 4", "1 + 4 + 1", "1 + 6 + 4"],
+      "richtig": 2,
+      "hinweis": "1. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (5 - 1)²",
+      "antworten": ["25 - 8 + 1", "25 - 10 + 1", "25 - 10 + 4"],
+      "richtig": 1,
+      "hinweis": "2. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (4 + 1)(4 - 1)",
+      "antworten": ["16 - 1", "16 - 4", "16 - 9"],
+      "richtig": 0,
+      "hinweis": "3. binomische Formel"
+    }
+  ],
+  "schwer": [
+    {
+      "frage": "Berechne: (a - 3)²",
+      "antworten": ["a² - 16a + 14", "a² - 6a + 9", "a² - 8a + 10"],
+      "richtig": 1,
+      "hinweis": "2. binomische Formel: (a - b)² = a² - 2ab + b²"
+    },
+    {
+      "frage": "Berechne: (y + 7)²",
+      "antworten": ["y² + 14y + 49", "y² + 24y + 54", "y² + 20y + 52"],
+      "richtig": 0,
+      "hinweis": "1. binomische Formel: (a + b)² = a² + 2ab + b²"
+    },
+    {
+      "frage": "Berechne: (x + 2)²",
+      "antworten": ["x² + 4x + 4", "x² + 12x + 8", "x² + 8x + 6"],
+      "richtig": 0,
+      "hinweis": "1. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (a + 8)(a - 8)",
+      "antworten": ["a² - 69", "a² - 64", "a² - 65"],
+      "richtig": 1,
+      "hinweis": "3. binomische Formel: (a + b)(a - b) = a² - b²"
+    },
+    {
+      "frage": "Berechne: (z - 8)²",
+      "antworten": ["z² - 16z + 64", "z² - 18z + 65", "z² - 24z + 68"],
+      "richtig": 0,
+      "hinweis": "2. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (y - 1)²",
+      "antworten": ["y² - 2y + 1", "y² - 10y + 5", "y² - 6y + 3"],
+      "richtig": 0,
+      "hinweis": "2. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (x - 6)²",
+      "antworten": ["x² - 14x + 37", "x² - 18x + 39", "x² - 12x + 36"],
+      "richtig": 2,
+      "hinweis": "2. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (z + 5)²",
+      "antworten": ["z² + 12z + 26", "z² + 20z + 30", "z² + 10z + 25"],
+      "richtig": 2,
+      "hinweis": "1. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (y - 5)²",
+      "antworten": ["y² - 14y + 27", "y² - 16y + 28", "y² - 10y + 25"],
+      "richtig": 2,
+      "hinweis": "2. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (x - 8)²",
+      "antworten": ["x² - 22x + 67", "x² - 16x + 64", "x² - 24x + 68"],
+      "richtig": 1,
+      "hinweis": "2. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (a + 4)²",
+      "antworten": ["a² + 8a + 16", "a² + 6a + 12", "a² + 10a + 20"],
+      "richtig": 0,
+      "hinweis": "1. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (b - 2)²",
+      "antworten": ["b² - 4b + 4", "b² - 8b + 16", "b² - 6b + 6"],
+      "richtig": 0,
+      "hinweis": "2. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (m + 6)(m - 6)",
+      "antworten": ["m² - 36", "m² - 12m", "m² + 12m + 36"],
+      "richtig": 0,
+      "hinweis": "3. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (c - 10)²",
+      "antworten": ["c² - 20c + 100", "c² - 10c + 25", "c² - 30c + 90"],
+      "richtig": 0,
+      "hinweis": "2. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (d + 3)(d - 3)",
+      "antworten": ["d² - 9", "d² + 6d + 9", "d² - 6d + 9"],
+      "richtig": 0,
+      "hinweis": "3. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (k - 7)²",
+      "antworten": ["k² - 14k + 49", "k² - 7k + 7", "k² - 10k + 36"],
+      "richtig": 0,
+      "hinweis": "2. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (x + 9)²",
+      "antworten": ["x² + 18x + 81", "x² + 16x + 72", "x² + 14x + 65"],
+      "richtig": 0,
+      "hinweis": "1. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (a - 1)²",
+      "antworten": ["a² - 2a + 1", "a² - 4a + 4", "a² - 1a + 1"],
+      "richtig": 0,
+      "hinweis": "2. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (y + 3)(y - 3)",
+      "antworten": ["y² - 9", "y² + 9", "y² - 6y"],
+      "richtig": 0,
+      "hinweis": "3. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (x + 1)²",
+      "antworten": ["x² + 2x + 1", "x² + x + 1", "x² + 1x + 2"],
+      "richtig": 0,
+      "hinweis": "1. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (x - 4)(x + 4)",
+      "antworten": ["x² - 16", "x² + 8x + 16", "x² - 8x + 16"],
+      "richtig": 0,
+      "hinweis": "3. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (z - 9)²",
+      "antworten": ["z² - 18z + 81", "z² - 9z + 9", "z² - 10z + 80"],
+      "richtig": 0,
+      "hinweis": "2. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (b + 2)(b - 2)",
+      "antworten": ["b² - 4", "b² + 4", "b² - 2b"],
+      "richtig": 0,
+      "hinweis": "3. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (a + 10)²",
+      "antworten": ["a² + 20a + 100", "a² + 10a + 100", "a² + 10a + 10"],
+      "richtig": 0,
+      "hinweis": "1. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (x - 2)²",
+      "antworten": ["x² - 4x + 4", "x² - 2x + 2", "x² - 3x + 9"],
+      "richtig": 0,
+      "hinweis": "2. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (m - 5)(m + 5)",
+      "antworten": ["m² - 25", "m² + 25", "m² - 10m"],
+      "richtig": 0,
+      "hinweis": "3. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (x + 6)²",
+      "antworten": ["x² + 12x + 36", "x² + 10x + 30", "x² + 8x + 28"],
+      "richtig": 0,
+      "hinweis": "1. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (a - 4)²",
+      "antworten": ["a² - 8a + 16", "a² - 6a + 12", "a² - 4a + 4"],
+      "richtig": 0,
+      "hinweis": "2. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (c + 7)(c - 7)",
+      "antworten": ["c² - 49", "c² + 49", "c² - 14c"],
+      "richtig": 0,
+      "hinweis": "3. binomische Formel"
+    },
+    {
+      "frage": "Berechne: (z + 4)²",
+      "antworten": ["z² + 8z + 16", "z² + 4z + 16", "z² + 6z + 12"],
+      "richtig": 0,
+      "hinweis": "1. binomische Formel"
+    }
+  ]
+}

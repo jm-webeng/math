@@ -1,0 +1,544 @@
+{
+  "leicht": [
+    {
+      "frage": "Was ist 1/2 + 1/4?",
+      "antworten": ["3/4", "1/4", "2/4"],
+      "richtig": 0,
+      "hinweis": "Brüche müssen auf den gleichen Nenner gebracht werden."
+    },
+    {
+      "frage": "Was ist 3/5 - 1/5?",
+      "antworten": ["2/5", "1/5", "4/5"],
+      "richtig": 0,
+      "hinweis": "Subtrahiere die Zähler bei gleichem Nenner."
+    },
+    {
+      "frage": "Was ist 1/3 + 1/3?",
+      "antworten": ["2/3", "1/6", "1/3"],
+      "richtig": 0,
+      "hinweis": "Zähler addieren, Nenner bleibt gleich."
+    },
+    {
+      "frage": "Was ist 4/6 - 2/6?",
+      "antworten": ["2/6", "6/6", "1/6"],
+      "richtig": 0,
+      "hinweis": "Bei gleichem Nenner Zähler subtrahieren."
+    },
+    {
+      "frage": "Was ist 1/2 × 1/3?",
+      "antworten": ["1/6", "1/5", "2/6"],
+      "richtig": 0,
+      "hinweis": "Multipliziere Zähler mit Zähler und Nenner mit Nenner."
+    },
+    {
+      "frage": "Was ist 2/3 × 3/4?",
+      "antworten": ["6/12", "6/7", "1/12"],
+      "richtig": 0,
+      "hinweis": "Brüche werden direkt multipliziert, kürze das Ergebnis."
+    },
+    {
+      "frage": "Was ist 1/2 ÷ 1/4?",
+      "antworten": ["2", "1/2", "1/8"],
+      "richtig": 0,
+      "hinweis": "Beim Dividieren mit einem Bruch kehrst du den zweiten Bruch um und multiplizierst."
+    },
+    {
+      "frage": "Was ist 3/5 ÷ 1/5?",
+      "antworten": ["3", "1", "5"],
+      "richtig": 0,
+      "hinweis": "Teile durch einen Bruch, indem du mit dem Kehrwert multiplizierst."
+    },
+    {
+      "frage": "Was ist 2/4 + 1/4?",
+      "antworten": ["3/4", "1/2", "2/5"],
+      "richtig": 0,
+      "hinweis": "Gleicher Nenner: Zähler addieren."
+    },
+    {
+      "frage": "Was ist 5/6 - 2/6?",
+      "antworten": ["3/6", "2/3", "1/6"],
+      "richtig": 0,
+      "hinweis": "Ergebnis ggf. kürzen."
+    },
+    {
+      "frage": "Was ist 1/5 + 2/5?",
+      "antworten": ["3/5", "1/5", "4/5"],
+      "richtig": 0,
+      "hinweis": "Einfacher gemeinsamer Nenner."
+    },
+    {
+      "frage": "Was ist 1/6 × 2?",
+      "antworten": ["2/6", "1/12", "1/3"],
+      "richtig": 0,
+      "hinweis": "Ganze Zahl als Bruch schreiben."
+    },
+    {
+      "frage": "Was ist 2/3 ÷ 1?",
+      "antworten": ["2/3", "1/2", "3/2"],
+      "richtig": 0,
+      "hinweis": "Durch 1 teilen ändert den Wert nicht."
+    },
+    {
+      "frage": "Was ist 3/6 + 2/6?",
+      "antworten": ["5/6", "1/2", "1"],
+      "richtig": 0,
+      "hinweis": "Zähler addieren bei gleichem Nenner."
+    },
+    {
+      "frage": "Was ist 1/4 × 4?",
+      "antworten": ["1", "4/4", "2"],
+      "richtig": 0,
+      "hinweis": "Bruch mal Ganze Zahl = Zähler mal Zahl."
+    },
+    {
+      "frage": "Was ist 4/4 - 1/4?",
+      "antworten": ["3/4", "2/4", "1"],
+      "richtig": 0,
+      "hinweis": "Ganzes minus Bruch."
+    },
+    {
+      "frage": "Was ist 3/3?",
+      "antworten": ["1", "3", "0"],
+      "richtig": 0,
+      "hinweis": "Zähler = Nenner ergibt 1."
+    },
+    {
+      "frage": "Was ist 1 - 1/2?",
+      "antworten": ["1/2", "2", "1"],
+      "richtig": 0,
+      "hinweis": "1 entspricht 2/2."
+    },
+    {
+      "frage": "Was ist 2 - 1/2?",
+      "antworten": ["3/2", "2/2", "1/2"],
+      "richtig": 0,
+      "hinweis": "2 = 4/2. Subtrahiere 1/2."
+    },
+    {
+      "frage": "Was ist 3/4 ÷ 1?",
+      "antworten": ["3/4", "1", "4/3"],
+      "richtig": 0,
+      "hinweis": "Durch 1 teilen hat keine Wirkung."
+    },
+    {
+      "frage": "Was ist 2/5 + 2/5?",
+      "antworten": ["4/5", "2/10", "1"],
+      "richtig": 0,
+      "hinweis": "Gleiche Nenner addieren."
+    },
+    {
+      "frage": "Was ist 5/5?",
+      "antworten": ["1", "0", "5"],
+      "richtig": 0,
+      "hinweis": "Bruch mit gleichem Zähler und Nenner = 1."
+    },
+    {
+      "frage": "Was ist 1/3 × 3?",
+      "antworten": ["1", "3", "1/9"],
+      "richtig": 0,
+      "hinweis": "1/3 × 3 = 3/3 = 1."
+    },
+    {
+      "frage": "Was ist 3 ÷ 1/3?",
+      "antworten": ["9", "1", "3"],
+      "richtig": 0,
+      "hinweis": "Multipliziere mit Kehrwert: 3 × 3/1 = 9."
+    },
+    {
+      "frage": "Was ist 1/2 × 2/1?",
+      "antworten": ["1", "2", "1/2"],
+      "richtig": 0,
+      "hinweis": "Zähler und Nenner direkt multiplizieren."
+    },
+    {
+      "frage": "Was ist 2/3 × 3/2?",
+      "antworten": ["1", "2", "3"],
+      "richtig": 0,
+      "hinweis": "Gegenseitige Brüche multiplizieren ergibt 1."
+    },
+    {
+      "frage": "Was ist 1/4 × 1/4?",
+      "antworten": ["1/16", "2/8", "1/8"],
+      "richtig": 0,
+      "hinweis": "1×1 = 1, 4×4 = 16."
+    },
+    {
+      "frage": "Was ist 3/4 - 1/4?",
+      "antworten": ["2/4", "3/4", "1"],
+      "richtig": 0,
+      "hinweis": "Zähler subtrahieren."
+    },
+    {
+      "frage": "Was ist 1/2 + 2/2?",
+      "antworten": ["3/2", "1", "1/2"],
+      "richtig": 0,
+      "hinweis": "Addiere auch ganze Teile."
+    },
+    {
+      "frage": "Was ist 1 ÷ 1/2?",
+      "antworten": ["2", "1/2", "1"],
+      "richtig": 0,
+      "hinweis": "1 geteilt durch 1/2 = 2."
+    },
+    {
+      "frage": "Was ist 2 ÷ 1/4?",
+      "antworten": ["8", "4", "2"],
+      "richtig": 0,
+      "hinweis": "2 = 2/1, dann multiplizieren mit 4/1."
+    }
+  ],
+
+  "mittel": [
+    {
+      "frage": "Was ist 4/7 + 2/7?",
+      "antworten": ["6/7", "1", "3/7"],
+      "richtig": 0,
+      "hinweis": "Bei gleichem Nenner einfach die Zähler addieren."
+    },
+    {
+      "frage": "Was ist 5/6 - 1/3?",
+      "antworten": ["1/2", "2/3", "4/6"],
+      "richtig": 1,
+      "hinweis": "Erweitere 1/3 zu 2/6, dann subtrahiere."
+    },
+    {
+      "frage": "Was ist 3/8 + 1/4?",
+      "antworten": ["5/8", "4/12", "3/12"],
+      "richtig": 0,
+      "hinweis": "1/4 entspricht 2/8."
+    },
+    {
+      "frage": "Was ist 5/9 - 2/3?",
+      "antworten": ["-1/9", "1/9", "1/3"],
+      "richtig": 0,
+      "hinweis": "2/3 entspricht 6/9."
+    },
+    {
+      "frage": "Was ist 3/8 × 2/5?",
+      "antworten": ["6/40", "6/13", "3/20"],
+      "richtig": 0,
+      "hinweis": "Multipliziere Zähler und Nenner."
+    },
+    {
+      "frage": "Was ist 4/7 ÷ 2/3?",
+      "antworten": ["6/7", "8/21", "12/14"],
+      "richtig": 0,
+      "hinweis": "Multipliziere mit dem Kehrwert von 2/3."
+    },
+    {
+      "frage": "Was ist 6/8 + 3/4?",
+      "antworten": ["1 5/8", "1 3/8", "1 1/4"],
+      "richtig": 1,
+      "hinweis": "6/8 = 3/4 → 3/4 + 3/4 = 6/4 = 1 2/4 = 1 1/2."
+    },
+    {
+      "frage": "Was ist 7/10 - 3/5?",
+      "antworten": ["1/10", "4/5", "3/10"],
+      "richtig": 0,
+      "hinweis": "3/5 = 6/10, dann subtrahiere."
+    },
+    {
+      "frage": "Was ist 2/3 × 4/5?",
+      "antworten": ["8/15", "6/15", "8/10"],
+      "richtig": 0,
+      "hinweis": "Zähler mal Zähler, Nenner mal Nenner."
+    },
+    {
+      "frage": "Was ist 5/8 ÷ 3/4?",
+      "antworten": ["5/6", "15/32", "2/3"],
+      "richtig": 0,
+      "hinweis": "Multipliziere 5/8 × 4/3 = 20/24 = 5/6."
+    },
+    {
+      "frage": "Was ist 1 1/2 + 3/4?",
+      "antworten": ["2 1/4", "1 3/4", "3/2"],
+      "richtig": 0,
+      "hinweis": "1 1/2 = 3/2, 3/4 = 6/8 → rechne mit unechten Brüchen."
+    },
+    {
+      "frage": "Was ist 7/8 + 5/8?",
+      "antworten": ["1 1/2", "1 3/8", "2"],
+      "richtig": 1,
+      "hinweis": "7+5 = 12, 12/8 = 1 4/8 = 1 1/2"
+    },
+    {
+      "frage": "Was ist 5/6 - 1/2?",
+      "antworten": ["1/3", "1/6", "2/3"],
+      "richtig": 0,
+      "hinweis": "Erweitere 1/2 auf 3/6."
+    },
+    {
+      "frage": "Was ist 2/3 ÷ 4/5?",
+      "antworten": ["10/12", "5/6", "8/15"],
+      "richtig": 1,
+      "hinweis": "2/3 × 5/4 = 10/12 = 5/6."
+    },
+    {
+      "frage": "Was ist 3/5 + 4/10?",
+      "antworten": ["1 1/10", "7/10", "1"],
+      "richtig": 2,
+      "hinweis": "3/5 = 6/10, 6+4 = 10/10 = 1."
+    },
+    {
+      "frage": "Was ist 11/12 - 5/6?",
+      "antworten": ["1/12", "2/12", "3/12"],
+      "richtig": 0,
+      "hinweis": "5/6 = 10/12."
+    },
+    {
+      "frage": "Was ist 3/4 × 2/3?",
+      "antworten": ["6/12", "6/9", "1/2"],
+      "richtig": 0,
+      "hinweis": "3×2 = 6, 4×3 = 12 → kürze."
+    },
+    {
+      "frage": "Was ist 4/5 ÷ 2/3?",
+      "antworten": ["6/5", "8/15", "5/6"],
+      "richtig": 0,
+      "hinweis": "Multipliziere mit 3/2."
+    },
+    {
+      "frage": "Was ist 3/4 + 1/8?",
+      "antworten": ["7/8", "6/8", "5/8"],
+      "richtig": 0,
+      "hinweis": "3/4 = 6/8, 6+1 = 7/8."
+    },
+    {
+      "frage": "Was ist 7/10 × 5/7?",
+      "antworten": ["1/2", "5/10", "1"],
+      "richtig": 0,
+      "hinweis": "7×5 = 35, 10×7 = 70 → 35/70 = 1/2."
+    },
+    {
+      "frage": "Was ist 3 ÷ 3/4?",
+      "antworten": ["4", "3/4", "2 1/4"],
+      "richtig": 0,
+      "hinweis": "Multipliziere 3 × 4/3 = 12/3 = 4."
+    },
+    {
+      "frage": "Was ist 5/6 + 1/3?",
+      "antworten": ["1 1/2", "1", "4/6"],
+      "richtig": 1,
+      "hinweis": "1/3 = 2/6, 5/6 + 2/6 = 7/6 = 1 1/6"
+    },
+    {
+      "frage": "Was ist 3/10 + 4/5?",
+      "antworten": ["1 1/10", "1", "7/10"],
+      "richtig": 1,
+      "hinweis": "4/5 = 8/10 → 3/10 + 8/10 = 11/10 = 1 1/10"
+    },
+    {
+      "frage": "Was ist 5/8 - 1/2?",
+      "antworten": ["1/8", "3/8", "2/8"],
+      "richtig": 1,
+      "hinweis": "1/2 = 4/8."
+    },
+    {
+      "frage": "Was ist 9/10 ÷ 3/5?",
+      "antworten": ["3/2", "3/5", "2/3"],
+      "richtig": 0,
+      "hinweis": "9/10 × 5/3 = 45/30 = 3/2."
+    },
+    {
+      "frage": "Was ist 2 1/4 + 1 3/4?",
+      "antworten": ["4", "3 1/2", "3"],
+      "richtig": 0,
+      "hinweis": "2 1/4 + 1 3/4 = 4."
+    },
+    {
+      "frage": "Was ist 5/9 × 3/10?",
+      "antworten": ["1/6", "1/2", "15/90"],
+      "richtig": 0,
+      "hinweis": "Multipliziere und kürze: 15/90 = 1/6."
+    },
+    {
+      "frage": "Was ist 8/9 - 5/6?",
+      "antworten": ["1/18", "7/18", "3/18"],
+      "richtig": 1,
+      "hinweis": "Hauptnenner: 18."
+    },
+    {
+      "frage": "Was ist 6/7 ÷ 2/3?",
+      "antworten": ["18/14", "6/10", "8/9"],
+      "richtig": 0,
+      "hinweis": "6/7 × 3/2 = 18/14 = 9/7."
+    }
+  ],
+
+  "schwer": [
+    {
+      "frage": "Was ist 2 1/3 + 3 2/5?",
+      "antworten": ["5 11/15", "6 1/15", "5 3/5"],
+      "richtig": 0,
+      "hinweis": "Rechne mit unechten Brüchen: 7/3 + 17/5 = ... "
+    },
+    {
+      "frage": "Was ist (3/4 + 5/6) - 2/3?",
+      "antworten": ["7/12", "11/12", "3/4"],
+      "richtig": 0,
+      "hinweis": "Brüche schrittweise zusammenrechnen."
+    },
+    {
+      "frage": "Was ist (2/5 × 3/4) ÷ (1/2)?",
+      "antworten": ["3/5", "3/8", "4/5"],
+      "richtig": 0,
+      "hinweis": "Klammer zuerst, dann Kehrwert der Division verwenden."
+    },
+    {
+      "frage": "Löse: x = 3/4, y = 1/6. Was ist x - y?",
+      "antworten": ["7/12", "5/12", "1/2"],
+      "richtig": 1,
+      "hinweis": "3/4 = 9/12, 1/6 = 2/12 → dann subtrahieren."
+    },
+    {
+      "frage": "Eine Pizza ist zu 5/8 gegessen. Wie viel bleibt übrig?",
+      "antworten": ["3/8", "5/8", "1/8"],
+      "richtig": 0,
+      "hinweis": "Gesamt - gegessen = übrig."
+    },
+    {
+      "frage": "Ein Seil ist 4 1/2 Meter lang. 2/3 davon werden benutzt. Wie viel bleibt?",
+      "antworten": ["1 1/2", "3", "2"],
+      "richtig": 0,
+      "hinweis": "Berechne 2/3 von 4 1/2, dann subtrahieren."
+    },
+    {
+      "frage": "Was ist 1 - (2/5 + 1/10)?",
+      "antworten": ["1/2", "3/10", "2/10"],
+      "richtig": 1,
+      "hinweis": "2/5 = 4/10, 4/10 + 1/10 = 5/10 → 1 - 5/10 = 5/10"
+    },
+    {
+      "frage": "Was ist (1 1/2 × 2/3) ÷ 1/2?",
+      "antworten": ["2", "1", "3"],
+      "richtig": 0,
+      "hinweis": "1 1/2 = 3/2. Dann multiplizieren, dann Kehrwert."
+    },
+    {
+      "frage": "Ein Brett ist 2 2/5 m lang. Es werden 3 Stücke à 3/4 m abgeschnitten. Wie viel bleibt?",
+      "antworten": ["1/5", "1 1/4", "0"],
+      "richtig": 1,
+      "hinweis": "Berechne 3 × 3/4 = 9/4 = 2 1/4, dann subtrahieren."
+    },
+    {
+      "frage": "Welche Zahl muss man zu 2/3 addieren, um 1 zu erhalten?",
+      "antworten": ["1/3", "2/3", "3/4"],
+      "richtig": 0,
+      "hinweis": "1 - 2/3 = ?"
+    },
+    {
+      "frage": "Was ist der Kehrwert von 1 2/3?",
+      "antworten": ["3/5", "3/2", "5/3"],
+      "richtig": 2,
+      "hinweis": "1 2/3 = 5/3 → Kehrwert = 3/5."
+    },
+    {
+      "frage": "Was ist (3/5 + 4/10) ÷ 2?",
+      "antworten": ["1/2", "7/10", "9/10"],
+      "richtig": 0,
+      "hinweis": "Erst Brüche addieren, dann durch 2 teilen."
+    },
+    {
+      "frage": "Was ist 2/3 × (3/4 + 1/4)?",
+      "antworten": ["2/3", "1", "1/2"],
+      "richtig": 1,
+      "hinweis": "3/4 + 1/4 = 1 → 2/3 × 1 = 2/3?"
+    },
+    {
+      "frage": "Ein Tank ist zu 7/10 voll. Es werden 1/5 abgelassen. Wie viel ist noch drin?",
+      "antworten": ["1/2", "9/10", "1/2"],
+      "richtig": 0,
+      "hinweis": "7/10 - 1/5 = ?"
+    },
+    {
+      "frage": "Was ist (4/5 × 2/3) ÷ (1/6)?",
+      "antworten": ["16/5", "8/5", "4/5"],
+      "richtig": 1,
+      "hinweis": "Erst multiplizieren, dann durch 1/6 teilen."
+    },
+    {
+      "frage": "Was ist 3/4 - (1/2 × 2/3)?",
+      "antworten": ["1/12", "1/4", "1/6"],
+      "richtig": 1,
+      "hinweis": "1/2 × 2/3 = 1/3, dann 3/4 - 1/3"
+    },
+    {
+      "frage": "Welche zwei Brüche ergeben zusammen 1, wenn einer davon 2/5 ist?",
+      "antworten": ["3/5", "1/5", "4/5"],
+      "richtig": 0,
+      "hinweis": "Ergänze auf 1."
+    },
+    {
+      "frage": "Vereinfache: (6/9) ÷ (2/3)",
+      "antworten": ["1", "2", "3/2"],
+      "richtig": 0,
+      "hinweis": "6/9 = 2/3 → 2/3 ÷ 2/3 = 1."
+    },
+    {
+      "frage": "Was ist (5/6 - 1/3) ÷ 1/2?",
+      "antworten": ["2/3", "1", "4/3"],
+      "richtig": 2,
+      "hinweis": "5/6 - 1/3 = 3/6 = 1/2 → 1/2 ÷ 1/2 = 1"
+    },
+    {
+      "frage": "Was ist 4 1/2 × 2/3?",
+      "antworten": ["3", "2", "2 3/4"],
+      "richtig": 0,
+      "hinweis": "4 1/2 = 9/2 → 9/2 × 2/3 = ?"
+    },
+    {
+      "frage": "Wenn 2/3 von x = 4, wie groß ist x?",
+      "antworten": ["6", "5", "4 1/2"],
+      "richtig": 0,
+      "hinweis": "Multipliziere beide Seiten mit dem Kehrwert von 2/3."
+    },
+    {
+      "frage": "Was ist (7/8 - 1/4) ÷ 1/2?",
+      "antworten": ["1 1/4", "1 3/4", "2"],
+      "richtig": 1,
+      "hinweis": "7/8 - 2/8 = 5/8 → 5/8 ÷ 1/2 = 10/8 = 1 2/8"
+    },
+    {
+      "frage": "Ein Weg ist 2 1/2 km lang. Du gehst 2/5 davon. Wie viele km sind das?",
+      "antworten": ["1", "1 1/4", "1 3/8"],
+      "richtig": 2,
+      "hinweis": "2 1/2 = 5/2, 5/2 × 2/5 = 10/10 = 1"
+    },
+    {
+      "frage": "Was ist 3 1/3 - 1 5/6?",
+      "antworten": ["1 1/2", "1 1/3", "2/3"],
+      "richtig": 0,
+      "hinweis": "Rechne mit unechten Brüchen."
+    },
+    {
+      "frage": "Vereinfache: (2 1/4 × 4/5)",
+      "antworten": ["9/5", "1 4/5", "1 9/10"],
+      "richtig": 2,
+      "hinweis": "2 1/4 = 9/4 → 9/4 × 4/5 = ?"
+    },
+    {
+      "frage": "Was ist der Kehrwert von 7/2?",
+      "antworten": ["2/7", "7/2", "1/2"],
+      "richtig": 0,
+      "hinweis": "Kehrwert bedeutet Zähler und Nenner tauschen."
+    },
+    {
+      "frage": "Was ist 1 3/5 ÷ 4/5?",
+      "antworten": ["2", "3", "2 1/2"],
+      "richtig": 0,
+      "hinweis": "1 3/5 = 8/5 → 8/5 ÷ 4/5 = 2."
+    },
+    {
+      "frage": "Was ist (1/2 + 1/3 + 1/6)?",
+      "antworten": ["1", "3/4", "5/6"],
+      "richtig": 0,
+      "hinweis": "Hauptnenner: 6."
+    },
+    {
+      "frage": "Was ist 2 ÷ (2/5 + 1/5)?",
+      "antworten": ["2", "3", "1 2/5"],
+      "richtig": 1,
+      "hinweis": "2 ÷ 3/5 = ?"
+    }
+  ]
+}

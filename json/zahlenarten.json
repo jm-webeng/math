@@ -1,0 +1,358 @@
+{
+  "leicht": [
+    {
+      "frage": "Ist die Zahl 5 ganzzahlig?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 0,
+      "hinweis": "Eine ganze Zahl hat keinen Dezimalanteil."
+    },
+    {
+      "frage": "Ist -3 eine rationale Zahl?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 0,
+      "hinweis": "Rationale Zahlen sind Brueche oder ganze Zahlen."
+    },
+    {
+      "frage": "Ist die Zahl 0 eine ganze Zahl?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 0,
+      "hinweis": "Null gehoert zu den ganzen Zahlen."
+    },
+    {
+      "frage": "Ist 4,75 eine rationale Zahl?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 0,
+      "hinweis": "Rationale Zahlen enthalten auch Dezimalzahlen mit endlicher Nachkommastelle."
+    },
+    {
+      "frage": "Ist 7 eine natürliche Zahl?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 0,
+      "hinweis": "Natuerliche Zahlen sind positive ganze Zahlen."
+    },
+    {
+      "frage": "Ist -1 eine natürliche Zahl?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 1,
+      "hinweis": "Natuerliche Zahlen sind positiv, negative Zahlen gehoeren nicht dazu."
+    },
+    {
+      "frage": "Ist 3,1415 eine rationale Zahl?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 0,
+      "hinweis": "Endliche Dezimalzahlen sind rational."
+    },
+    {
+      "frage": "Ist 1/2 eine ganze Zahl?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 1,
+      "hinweis": "Brueche sind keine ganzen Zahlen."
+    },
+    {
+      "frage": "Ist 0 eine natürliche Zahl?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 1,
+      "hinweis": "Null gehoert in manchen Definitionen nicht zu den natürlichen Zahlen."
+    },
+    {
+      "frage": "Ist die Zahl -10 eine ganze Zahl?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 0,
+      "hinweis": "Negative Zahlen ohne Dezimalanteil sind ganze Zahlen."
+    },
+    {
+      "frage": "Ist 10,0 eine ganze Zahl?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 0,
+      "hinweis": "Zahlen mit Dezimalpunkt koennen ganze Zahlen sein, wenn Nachkommastellen null sind."
+    },
+    {
+      "frage": "Ist 0,333... eine rationale Zahl?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 0,
+      "hinweis": "Periodische Dezimalzahlen sind rational."
+    },
+    {
+      "frage": "Ist die Zahl 1 irrational?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 1,
+      "hinweis": "1 ist eine rationale Zahl, keine irrationale."
+    },
+    {
+      "frage": "Ist die Zahl -0,5 rational?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 0,
+      "hinweis": "Negative Brueche sind rational."
+    },
+    {
+      "frage": "Ist 100 eine ganze Zahl?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 0,
+      "hinweis": "Ganze Zahlen sind alle positiven und negativen Zahlen ohne Dezimalanteil."
+    },
+    {
+      "frage": "Ist 2/3 eine rationale Zahl?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 0,
+      "hinweis": "Brueche gehoeren zu den rationalen Zahlen."
+    },
+    {
+      "frage": "Ist 3,0 eine ganze Zahl?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 0,
+      "hinweis": "3,0 entspricht der ganzen Zahl 3."
+    },
+    {
+      "frage": "Ist 0,25 eine rationale Zahl?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 0,
+      "hinweis": "Endliche Dezimalzahlen sind rational."
+    },
+    {
+      "frage": "Ist -7 eine natürliche Zahl?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 1,
+      "hinweis": "Natuerliche Zahlen sind positiv."
+    },
+    {
+      "frage": "Ist 5 eine irrationale Zahl?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 1,
+      "hinweis": "5 ist eine rationale Zahl."
+    },
+    {
+      "frage": "Ist die Zahl 2,5 rational?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 0,
+      "hinweis": "Dezimalzahlen mit endlicher Nachkommastelle sind rational."
+    },
+    {
+      "frage": "Ist die Zahl -1/3 rational?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 0,
+      "hinweis": "Brueche sind rationale Zahlen."
+    },
+    {
+      "frage": "Ist die Zahl sqrt(4) rational?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 0,
+      "hinweis": "Die Wurzel aus 4 ist 2, eine rationale Zahl."
+    },
+    {
+      "frage": "Ist die Zahl sqrt(2) rational?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 1,
+      "hinweis": "Die Wurzel aus 2 ist irrational."
+    },
+    {
+      "frage": "Ist die Zahl 0,333... irrational?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 1,
+      "hinweis": "Periodische Dezimalzahlen sind rational."
+    },
+    {
+      "frage": "Ist die Zahl 1/0 eine rationale Zahl?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 1,
+      "hinweis": "Division durch Null ist nicht definiert."
+    },
+    {
+      "frage": "Ist die Zahl -5 eine ganze Zahl?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 0,
+      "hinweis": "Negative ganze Zahlen gehoeren zu den ganzen Zahlen."
+    },
+    {
+      "frage": "Ist 0 eine rationale Zahl?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 0,
+      "hinweis": "0 ist rationale Zahl (0 = 0/1)."
+    },
+    {
+      "frage": "Ist pi rational?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 1,
+      "hinweis": "Pi ist eine irrationale Zahl."
+    },
+    {
+      "frage": "Ist die Zahl e rational?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 1,
+      "hinweis": "Die Eulersche Zahl e ist irrational."
+    },
+    {
+      "frage": "Ist 0,123456789 irrational?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 1,
+      "hinweis": "Endliche Dezimalzahlen sind rational."
+    },
+    {
+      "frage": "Ist 1/4 eine rationale Zahl?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 0,
+      "hinweis": "Brueche gehoeren zu den rationalen Zahlen."
+    },
+    {
+      "frage": "Ist 0,999... = 1 eine rationale Zahl?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 0,
+      "hinweis": "0,999... entspricht der Zahl 1."
+    },
+    {
+      "frage": "Ist die Zahl sqrt(9) irrational?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 1,
+      "hinweis": "Wurzel aus 9 ist 3, eine rationale Zahl."
+    },
+    {
+      "frage": "Ist 7/11 rational?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 0,
+      "hinweis": "Brueche gehoeren zu rationalen Zahlen."
+    },
+    {
+      "frage": "Ist -0,75 rational?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 0,
+      "hinweis": "Dezimalzahlen mit endlicher Nachkommastelle sind rational."
+    },
+    {
+      "frage": "Ist sqrt(16) eine ganze Zahl?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 0,
+      "hinweis": "Wurzel aus 16 ist 4, eine ganze Zahl."
+    },
+    {
+      "frage": "Ist 1,414 irrational?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 1,
+      "hinweis": "1,414 ist eine endliche Dezimalzahl und damit rational."
+    },
+    {
+      "frage": "Ist 5/0 rational?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 1,
+      "hinweis": "Division durch Null ist nicht definiert."
+    },
+    {
+      "frage": "Ist 0,1 periodisch?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 1,
+      "hinweis": "0,1 ist keine periodische Dezimalzahl."
+    },
+    {
+      "frage": "Ist pi eine rationale Zahl?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 1,
+      "hinweis": "Pi ist eine irrationale Zahl."
+    },
+    {
+      "frage": "Ist e irrational?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 0,
+      "hinweis": "Die Eulersche Zahl e ist irrational."
+    },
+    {
+      "frage": "Ist die Wurzel aus 3 rational?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 1,
+      "hinweis": "Wurzel aus 3 ist irrational."
+    },
+    {
+      "frage": "Ist 0,101001000100001... rational?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 1,
+      "hinweis": "Nicht periodische unendliche Dezimalzahlen sind irrational."
+    },
+    {
+      "frage": "Ist jede rationale Zahl auch eine ganze Zahl?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 1,
+      "hinweis": "Nicht jede rationale Zahl ist eine ganze Zahl."
+    },
+    {
+      "frage": "Ist jede ganze Zahl auch eine rationale Zahl?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 0,
+      "hinweis": "Jede ganze Zahl kann als Bruch mit Nenner 1 dargestellt werden."
+    },
+    {
+      "frage": "Sind alle irrationalen Zahlen reell?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 0,
+      "hinweis": "Irrationale Zahlen gehoeren zu den reellen Zahlen."
+    },
+    {
+      "frage": "Ist die Zahl log(2) irrational?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 0,
+      "hinweis": "Logarithmen vieler Zahlen sind irrational, aber das ist nicht immer bewiesen."
+    },
+    {
+      "frage": "Kann eine irrationale Zahl periodisch sein?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 1,
+      "hinweis": "Periodische Dezimalzahlen sind rational."
+    },
+    {
+      "frage": "Ist die Zahl (1 + sqrt(5))/2 rational?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 1,
+      "hinweis": "Der Goldene Schnitt ist irrational."
+    },
+    {
+      "frage": "Ist die Zahl pi^2 irrational?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 0,
+      "hinweis": "Das Quadrat von pi ist ebenfalls irrational."
+    },
+    {
+      "frage": "Ist die Zahl e + pi irrational?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 0,
+      "hinweis": "Ob e + pi irrational ist, ist noch nicht bewiesen."
+    },
+    {
+      "frage": "Ist sqrt(25) irrational?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 1,
+      "hinweis": "Wurzel aus 25 ist 5, eine rationale Zahl."
+    },
+    {
+      "frage": "Sind alle reellen Zahlen rational oder irrational?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 0,
+      "hinweis": "Reelle Zahlen sind entweder rational oder irrational."
+    },
+    {
+      "frage": "Ist 0,121212... rational?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 0,
+      "hinweis": "Periodische Dezimalzahlen sind rational."
+    },
+    {
+      "frage": "Ist 1/7 eine rationale Zahl?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 0,
+      "hinweis": "Brueche gehoeren zu den rationalen Zahlen."
+    },
+    {
+      "frage": "Ist 3 + sqrt(2) rational?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 1,
+      "hinweis": "Summe aus rationaler und irrationaler Zahl ist irrational."
+    },
+    {
+      "frage": "Ist 0 irrational?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 1,
+      "hinweis": "0 ist rationale Zahl."
+    },
+    {
+      "frage": "Ist die Zahl 22/7 rational?",
+      "antworten": ["Ja", "Nein"],
+      "richtig": 0,
+      "hinweis": "22/7 ist eine rationale Zahl, eine Approximation von pi."
+    }
+  ]
+}

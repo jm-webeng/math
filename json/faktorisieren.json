@@ -1,0 +1,182 @@
+{
+  "schwer": [
+    {
+      "frage": "Faktorisieren: x² + 6x + 9",
+      "antworten": ["(x + 3)²", "(x + 2)(x + 4)", "(x + 1)(x + 9)"],
+      "richtig": 0,
+      "hinweis": "Erkenne die 1. binomische Formel: a² + 2ab + b² = (a + b)²"
+    },
+    {
+      "frage": "Faktorisieren: x² - 9",
+      "antworten": ["(x - 3)(x + 3)", "(x - 9)(x + 1)", "(x - 1)(x + 9)"],
+      "richtig": 0,
+      "hinweis": "Differenz zweier Quadrate: a² - b² = (a - b)(a + b)"
+    },
+    {
+      "frage": "Faktorisieren: x² + 10x + 25",
+      "antworten": ["(x + 5)²", "(x + 2)(x + 8)", "(x + 4)(x + 6)"],
+      "richtig": 0,
+      "hinweis": "1. binomische Formel"
+    },
+    {
+      "frage": "Faktorisieren: x² - 2x + 1",
+      "antworten": ["(x - 1)²", "(x + 1)²", "(x - 2)(x + 1)"],
+      "richtig": 0,
+      "hinweis": "2. binomische Formel: a² - 2ab + b² = (a - b)²"
+    },
+    {
+      "frage": "Faktorisieren: 4x² - 25",
+      "antworten": ["(2x - 5)(2x + 5)", "(4x - 25)", "(x - 5)(x + 5)"],
+      "richtig": 0,
+      "hinweis": "Differenz zweier Quadrate"
+    },
+    {
+      "frage": "Faktorisieren: x² - 16",
+      "antworten": ["(x - 4)(x + 4)", "(x - 8)(x + 2)", "(x - 2)(x + 8)"],
+      "richtig": 0,
+      "hinweis": "Differenz zweier Quadrate"
+    },
+    {
+      "frage": "Faktorisieren: x² + 4x + 4",
+      "antworten": ["(x + 2)²", "(x + 1)(x + 4)", "(x + 3)(x + 1)"],
+      "richtig": 0,
+      "hinweis": "1. binomische Formel"
+    },
+    {
+      "frage": "Faktorisieren: x² - 6x + 9",
+      "antworten": ["(x - 3)²", "(x - 2)(x - 4)", "(x - 1)(x - 9)"],
+      "richtig": 0,
+      "hinweis": "2. binomische Formel"
+    },
+    {
+      "frage": "Faktorisieren: x² - 49",
+      "antworten": ["(x - 7)(x + 7)", "(x - 6)(x + 8)", "(x - 1)(x + 49)"],
+      "richtig": 0,
+      "hinweis": "a² - b² = (a - b)(a + b)"
+    },
+    {
+      "frage": "Faktorisieren: x² + 12x + 36",
+      "antworten": ["(x + 6)²", "(x + 3)(x + 9)", "(x + 4)(x + 8)"],
+      "richtig": 0,
+      "hinweis": "1. binomische Formel"
+    },
+    {
+      "frage": "Faktorisieren: x² - 1",
+      "antworten": ["(x - 1)(x + 1)", "(x - 1)²", "(x + 1)²"],
+      "richtig": 0,
+      "hinweis": "a² - b² = (a - b)(a + b)"
+    },
+    {
+      "frage": "Faktorisieren: x² + 2x + 1",
+      "antworten": ["(x + 1)²", "(x + 2)(x + 1)", "(x + 1)(x + 3)"],
+      "richtig": 0,
+      "hinweis": "1. binomische Formel"
+    },
+    {
+      "frage": "Faktorisieren: 9x² - 16",
+      "antworten": ["(3x - 4)(3x + 4)", "(x - 4)(x + 4)", "(9x - 16)(9x + 1)"],
+      "richtig": 0,
+      "hinweis": "Differenz zweier Quadrate"
+    },
+    {
+      "frage": "Faktorisieren: x² - 4x + 4",
+      "antworten": ["(x - 2)²", "(x + 2)²", "(x - 1)(x - 4)"],
+      "richtig": 0,
+      "hinweis": "2. binomische Formel"
+    },
+    {
+      "frage": "Faktorisieren: 25x² - 36",
+      "antworten": [
+        "(5x - 6)(5x + 6)",
+        "(x - 6)(x + 6)",
+        "(25x - 36)(25x + 1)"
+      ],
+      "richtig": 0,
+      "hinweis": "a² - b² = (a - b)(a + b)"
+    },
+    {
+      "frage": "Faktorisieren: x² + 8x + 16",
+      "antworten": ["(x + 4)²", "(x + 2)(x + 6)", "(x + 1)(x + 16)"],
+      "richtig": 0,
+      "hinweis": "1. binomische Formel"
+    },
+    {
+      "frage": "Faktorisieren: x² - 36",
+      "antworten": ["(x - 6)(x + 6)", "(x - 9)(x + 4)", "(x - 1)(x + 36)"],
+      "richtig": 0,
+      "hinweis": "Differenz zweier Quadrate"
+    },
+    {
+      "frage": "Faktorisieren: x² - 2x + 1",
+      "antworten": ["(x - 1)²", "(x - 2)(x + 1)", "(x + 1)(x - 1)"],
+      "richtig": 0,
+      "hinweis": "2. binomische Formel"
+    },
+    {
+      "frage": "Faktorisieren: x² - 100",
+      "antworten": ["(x - 10)(x + 10)", "(x - 9)(x + 11)", "(x - 1)(x + 100)"],
+      "richtig": 0,
+      "hinweis": "a² - b² = (a - b)(a + b)"
+    },
+    {
+      "frage": "Faktorisieren: x² + 14x + 49",
+      "antworten": ["(x + 7)²", "(x + 6)(x + 8)", "(x + 2)(x + 12)"],
+      "richtig": 0,
+      "hinweis": "1. binomische Formel"
+    },
+    {
+      "frage": "Faktorisieren: x² - 64",
+      "antworten": ["(x - 8)(x + 8)", "(x - 6)(x + 10)", "(x - 1)(x + 64)"],
+      "richtig": 0,
+      "hinweis": "Differenz zweier Quadrate"
+    },
+    {
+      "frage": "Faktorisieren: x² - 6x + 9",
+      "antworten": ["(x - 3)²", "(x - 2)(x - 4)", "(x - 1)(x - 9)"],
+      "richtig": 0,
+      "hinweis": "2. binomische Formel"
+    },
+    {
+      "frage": "Faktorisieren: x² - 121",
+      "antworten": ["(x - 11)(x + 11)", "(x - 12)(x + 10)", "(x - 1)(x + 121)"],
+      "richtig": 0,
+      "hinweis": "a² - b² = (a - b)(a + b)"
+    },
+    {
+      "frage": "Faktorisieren: 36x² - 49",
+      "antworten": ["(6x - 7)(6x + 7)", "(x - 6)(x + 6)", "(36x - 49)(x + 1)"],
+      "richtig": 0,
+      "hinweis": "Differenz zweier Quadrate"
+    },
+    {
+      "frage": "Faktorisieren: x² + 16x + 64",
+      "antworten": ["(x + 8)²", "(x + 4)(x + 12)", "(x + 2)(x + 14)"],
+      "richtig": 0,
+      "hinweis": "1. binomische Formel"
+    },
+    {
+      "frage": "Faktorisieren: x² - 144",
+      "antworten": ["(x - 12)(x + 12)", "(x - 10)(x + 14)", "(x - 1)(x + 144)"],
+      "richtig": 0,
+      "hinweis": "Differenz zweier Quadrate"
+    },
+    {
+      "frage": "Faktorisieren: x² + 6x + 9",
+      "antworten": ["(x + 3)²", "(x + 1)(x + 9)", "(x + 2)(x + 4)"],
+      "richtig": 0,
+      "hinweis": "1. binomische Formel"
+    },
+    {
+      "frage": "Faktorisieren: x² - 81",
+      "antworten": ["(x - 9)(x + 9)", "(x - 8)(x + 10)", "(x - 1)(x + 81)"],
+      "richtig": 0,
+      "hinweis": "a² - b²"
+    },
+    {
+      "frage": "Faktorisieren: x² + 18x + 81",
+      "antworten": ["(x + 9)²", "(x + 6)(x + 12)", "(x + 3)(x + 15)"],
+      "richtig": 0,
+      "hinweis": "1. binomische Formel"
+    }
+  ]
+}

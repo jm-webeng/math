@@ -1,0 +1,184 @@
+{
+  "mittel": [
+    {
+      "frage": "Berechne: 7^2 : 7^3",
+      "antworten": ["7^-4", "7^1", "7^-1"],
+      "richtig": 2,
+      "hinweis": "Bei Division mit gleicher Basis werden die Exponenten subtrahiert."
+    },
+    {
+      "frage": "Berechne: (2^1)^5",
+      "antworten": ["2^8", "2^4", "2^5"],
+      "richtig": 2,
+      "hinweis": "Beim Potenzieren einer Potenz werden die Exponenten multipliziert."
+    },
+    {
+      "frage": "Berechne: (7^1)^5",
+      "antworten": ["7^3", "7^5", "7^6"],
+      "richtig": 1,
+      "hinweis": "Beim Potenzieren einer Potenz werden die Exponenten multipliziert."
+    },
+    {
+      "frage": "Berechne: 5^5 * 5^1",
+      "antworten": ["5^4", "5^6", "5^3"],
+      "richtig": 1,
+      "hinweis": "Bei gleicher Basis: Exponenten addieren."
+    },
+    {
+      "frage": "Berechne: 3^2 * 3^1",
+      "antworten": ["3^1", "3^3", "3^4"],
+      "richtig": 1,
+      "hinweis": "Exponenten bei Multiplikation mit gleicher Basis addieren."
+    },
+    {
+      "frage": "Berechne: 2^2 : 2^4",
+      "antworten": ["2^-2", "2^2", "2^1"],
+      "richtig": 0,
+      "hinweis": "Exponenten bei Division mit gleicher Basis subtrahieren."
+    },
+    {
+      "frage": "Berechne: (5^2)^2",
+      "antworten": ["5^4", "5^3", "5^2"],
+      "richtig": 0,
+      "hinweis": "Exponenten werden multipliziert."
+    },
+    {
+      "frage": "Berechne: (3^2)^1",
+      "antworten": ["3^2", "3^3", "3^1"],
+      "richtig": 0,
+      "hinweis": "x^a)^1 = x^a"
+    },
+    {
+      "frage": "Berechne: 2^3 * 2^1",
+      "antworten": ["2^4", "2^2", "2^5"],
+      "richtig": 0,
+      "hinweis": "Exponenten addieren bei Multiplikation."
+    },
+    {
+      "frage": "Berechne: 5^3 : 5^2",
+      "antworten": ["5^1", "5^0", "5^5"],
+      "richtig": 0,
+      "hinweis": "Subtrahiere die Exponenten."
+    },
+    {
+      "frage": "Berechne: (2^2)^3",
+      "antworten": ["2^6", "2^5", "2^3"],
+      "richtig": 0,
+      "hinweis": "Beim Potenzieren multiplizierst du die Exponenten."
+    },
+    {
+      "frage": "Berechne: (3^3)^2",
+      "antworten": ["3^6", "3^5", "3^4"],
+      "richtig": 0,
+      "hinweis": "Exponenten werden multipliziert."
+    },
+    {
+      "frage": "Berechne: 7^4 : 7^1",
+      "antworten": ["7^3", "7^2", "7^1"],
+      "richtig": 0,
+      "hinweis": "Subtrahiere 1 von 4."
+    },
+    {
+      "frage": "Berechne: 2^5 : 2^3",
+      "antworten": ["2^1", "2^3", "2^2"],
+      "richtig": 2,
+      "hinweis": "5 - 3 = 2"
+    },
+    {
+      "frage": "Berechne: 3^1 * 3^3",
+      "antworten": ["3^3", "3^4", "3^5"],
+      "richtig": 1,
+      "hinweis": "1 + 3 = 4"
+    },
+    {
+      "frage": "Berechne: (5^1)^4",
+      "antworten": ["5^5", "5^4", "5^3"],
+      "richtig": 1,
+      "hinweis": "Exponenten werden multipliziert."
+    },
+    {
+      "frage": "Berechne: 2^2 * 2^2",
+      "antworten": ["2^4", "2^2", "2^3"],
+      "richtig": 0,
+      "hinweis": "Addiere die Exponenten."
+    },
+    {
+      "frage": "Berechne: 3^5 : 3^2",
+      "antworten": ["3^2", "3^3", "3^1"],
+      "richtig": 1,
+      "hinweis": "5 - 2 = 3"
+    },
+    {
+      "frage": "Berechne: (7^2)^2",
+      "antworten": ["7^3", "7^4", "7^2"],
+      "richtig": 1,
+      "hinweis": "Multipliziere die Exponenten."
+    },
+    {
+      "frage": "Berechne: (2^3)^2",
+      "antworten": ["2^5", "2^6", "2^4"],
+      "richtig": 1,
+      "hinweis": "3 * 2 = 6"
+    },
+    {
+      "frage": "Berechne: 5^2 * 5^3",
+      "antworten": ["5^6", "5^5", "5^4"],
+      "richtig": 1,
+      "hinweis": "Addiere 2 + 3"
+    },
+    {
+      "frage": "Berechne: 3^4 : 3^2",
+      "antworten": ["3^1", "3^2", "3^3"],
+      "richtig": 1,
+      "hinweis": "4 - 2 = 2"
+    },
+    {
+      "frage": "Berechne: (2^2)^4",
+      "antworten": ["2^6", "2^8", "2^4"],
+      "richtig": 1,
+      "hinweis": "2 * 4 = 8"
+    },
+    {
+      "frage": "Berechne: (5^2)^3",
+      "antworten": ["5^5", "5^6", "5^4"],
+      "richtig": 1,
+      "hinweis": "2 * 3 = 6"
+    },
+    {
+      "frage": "Berechne: 7^3 : 7^2",
+      "antworten": ["7^2", "7^1", "7^0"],
+      "richtig": 1,
+      "hinweis": "3 - 2 = 1"
+    },
+    {
+      "frage": "Berechne: (3^1)^3",
+      "antworten": ["3^2", "3^1", "3^3"],
+      "richtig": 2,
+      "hinweis": "1 * 3 = 3"
+    },
+    {
+      "frage": "Berechne: 2^1 * 2^3",
+      "antworten": ["2^4", "2^3", "2^2"],
+      "richtig": 0,
+      "hinweis": "1 + 3 = 4"
+    },
+    {
+      "frage": "Berechne: 5^4 : 5^2",
+      "antworten": ["5^3", "5^2", "5^1"],
+      "richtig": 1,
+      "hinweis": "4 - 2 = 2"
+    },
+    {
+      "frage": "Berechne: (7^1)^3",
+      "antworten": ["7^2", "7^1", "7^3"],
+      "richtig": 2,
+      "hinweis": "1 * 3 = 3"
+    },
+    {
+      "frage": "Berechne: (3^2)^2",
+      "antworten": ["3^3", "3^4", "3^5"],
+      "richtig": 1,
+      "hinweis": "2 * 2 = 4"
+    }
+  ]
+}

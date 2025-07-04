@@ -1,0 +1,184 @@
+{
+  "mittel": [
+    {
+      "frage": "Was ist √(9 · 4)?",
+      "antworten": ["6", "12", "36"],
+      "richtig": 0,
+      "hinweis": "Nutze √(a·b) = √a · √b: √9 = 3, √4 = 2, also 3·2 = 6"
+    },
+    {
+      "frage": "Was ist √(25 / 4)?",
+      "antworten": ["2.5", "5", "6.25"],
+      "richtig": 0,
+      "hinweis": "√(25/4) = √25 / √4 = 5 / 2 = 2.5"
+    },
+    {
+      "frage": "Was ist (√16)²?",
+      "antworten": ["16", "4", "8"],
+      "richtig": 0,
+      "hinweis": "(√a)² = a, also (√16)² = 16"
+    },
+    {
+      "frage": "Vereinfache: √(49 · 9)",
+      "antworten": ["21", "58", "14"],
+      "richtig": 0,
+      "hinweis": "√(49·9) = √49 · √9 = 7 · 3 = 21"
+    },
+    {
+      "frage": "Was ist √100 / √25?",
+      "antworten": ["2", "4", "5"],
+      "richtig": 0,
+      "hinweis": "√100 = 10, √25 = 5, 10 / 5 = 2"
+    },
+    {
+      "frage": "Vereinfache: (√81)²",
+      "antworten": ["81", "9", "18"],
+      "richtig": 0,
+      "hinweis": "(√a)² = a"
+    },
+    {
+      "frage": "Berechne: √(36) · √(4)",
+      "antworten": ["12", "24", "9"],
+      "richtig": 0,
+      "hinweis": "√36 = 6, √4 = 2, also 6·2 = 12"
+    },
+    {
+      "frage": "Was ist √(121 / 11)?",
+      "antworten": ["√11", "11", "1"],
+      "richtig": 0,
+      "hinweis": "121 / 11 = 11, √11 ist die Lösung"
+    },
+    {
+      "frage": "Vereinfache: √(16x²)",
+      "antworten": ["4x", "8x", "2x"],
+      "richtig": 0,
+      "hinweis": "√16 = 4, √x² = x"
+    },
+    {
+      "frage": "Was ist √(x²)?",
+      "antworten": ["x", "|x|", "x²"],
+      "richtig": 1,
+      "hinweis": "√(x²) = |x|, da Wurzel immer positiv"
+    },
+    {
+      "frage": "Was ist √(1/4)?",
+      "antworten": ["1/2", "2", "4"],
+      "richtig": 0,
+      "hinweis": "√(1/4) = √1 / √4 = 1/2"
+    },
+    {
+      "frage": "Vereinfache: √(9a²)",
+      "antworten": ["3|a|", "9a", "3a²"],
+      "richtig": 0,
+      "hinweis": "√9 = 3, √a² = |a|"
+    },
+    {
+      "frage": "Berechne: √(64 / 16)",
+      "antworten": ["2", "4", "8"],
+      "richtig": 1,
+      "hinweis": "64 / 16 = 4, √4 = 2"
+    },
+    {
+      "frage": "Was ist √(x) · √(x)?",
+      "antworten": ["x", "√(x²)", "2x"],
+      "richtig": 0,
+      "hinweis": "√x · √x = x"
+    },
+    {
+      "frage": "Was ist (√3)²?",
+      "antworten": ["3", "6", "√6"],
+      "richtig": 0,
+      "hinweis": "(√a)² = a"
+    },
+    {
+      "frage": "Vereinfache: √(a²b²)",
+      "antworten": ["|a||b|", "ab", "a²b²"],
+      "richtig": 0,
+      "hinweis": "Wurzel von Quadraten = Betrag"
+    },
+    {
+      "frage": "Was ist √(36x²)?",
+      "antworten": ["6|x|", "36x", "6x²"],
+      "richtig": 0,
+      "hinweis": "√36 = 6, √x² = |x|"
+    },
+    {
+      "frage": "Berechne: √(81/9)",
+      "antworten": ["3", "9", "√9"],
+      "richtig": 2,
+      "hinweis": "81/9 = 9, √9 = 3"
+    },
+    {
+      "frage": "Was ist √(x⁴)?",
+      "antworten": ["x²", "|x²|", "x⁴"],
+      "richtig": 1,
+      "hinweis": "√(x⁴) = |x²|"
+    },
+    {
+      "frage": "Was ist √(49y²)?",
+      "antworten": ["7|y|", "49y", "7y²"],
+      "richtig": 0,
+      "hinweis": "√49 = 7, √(y²) = |y|"
+    },
+    {
+      "frage": "Was ist (√a)(√b)?",
+      "antworten": ["√(ab)", "√a + √b", "√(a+b)"],
+      "richtig": 0,
+      "hinweis": "√a · √b = √(ab)"
+    },
+    {
+      "frage": "Was ist √(100x²)?",
+      "antworten": ["10|x|", "10x", "100x"],
+      "richtig": 0,
+      "hinweis": "√100 = 10, √(x²) = |x|"
+    },
+    {
+      "frage": "Was ist √(x² / 25)?",
+      "antworten": ["|x| / 5", "x / 5", "x / √25"],
+      "richtig": 0,
+      "hinweis": "Wurzel getrennt anwenden"
+    },
+    {
+      "frage": "Was ist √(4x²y²)?",
+      "antworten": ["2|x||y|", "2xy", "4xy²"],
+      "richtig": 0,
+      "hinweis": "√4 = 2, √x² = |x|, √y² = |y|"
+    },
+    {
+      "frage": "Was ist √(9x⁴)?",
+      "antworten": ["3x²", "3|x²|", "9x²"],
+      "richtig": 1,
+      "hinweis": "√9 = 3, √(x⁴) = |x²|"
+    },
+    {
+      "frage": "Berechne: (√5)²",
+      "antworten": ["5", "10", "√25"],
+      "richtig": 0,
+      "hinweis": "Wurzel und Quadrat heben sich auf"
+    },
+    {
+      "frage": "Vereinfache: √(x²y²z²)",
+      "antworten": ["|x||y||z|", "xyz", "x²y²z²"],
+      "richtig": 0,
+      "hinweis": "Wurzel jedes Quadrats = Betrag"
+    },
+    {
+      "frage": "Was ist √(16a²b⁴)?",
+      "antworten": ["4|a||b²|", "4ab²", "16ab"],
+      "richtig": 0,
+      "hinweis": "√16 = 4, √(a²) = |a|, √(b⁴) = |b²|"
+    },
+    {
+      "frage": "Was ist √(x²) · √(y²)?",
+      "antworten": ["|x||y|", "xy", "x²y²"],
+      "richtig": 0,
+      "hinweis": "Jede Wurzel einzeln betrachten"
+    },
+    {
+      "frage": "Was ist √(121x²)?",
+      "antworten": ["11|x|", "11x", "121x"],
+      "richtig": 0,
+      "hinweis": "√121 = 11, √(x²) = |x|"
+    }
+  ]
+}
