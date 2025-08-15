@@ -26,7 +26,7 @@
     },
     {
       "frage": "Berechne: (6 + 3)²",
-      "antworten": ["36 + 54 + 9", "35 + 54 + 9", "34 + 54 + 9"],
+      "antworten": ["36 + 36 + 9", "36 + 54 + 9", "34 + 54 + 9"],
       "richtig": 0,
       "hinweis": "1. binomische Formel"
     },
@@ -45,13 +45,13 @@
     {
       "frage": "Berechne: (7 + 2)²",
       "antworten": ["49 + 36 + 4", "49 + 28 + 4", "49 + 28 + 9"],
-      "richtig": 2,
+      "richtig": 0,
       "hinweis": "1. binomische Formel"
     },
     {
       "frage": "Berechne: (9 - 4)²",
       "antworten": ["81 - 72 + 16", "81 - 72 + 4", "81 - 72 + 25"],
-      "richtig": 2,
+      "richtig": 0,
       "hinweis": "2. binomische Formel"
     },
     {
@@ -62,8 +62,8 @@
     },
     {
       "frage": "Berechne: (2 + 7)²",
-      "antworten": ["4 + 28 + 49", "4 + 14 + 49", "49 + 28 + 4"],
-      "richtig": 1,
+      "antworten": ["4 + 28 + 49", "4 + 14 + 49", "4 + 28"],
+      "richtig": 0,
       "hinweis": "1. binomische Formel"
     },
     {
@@ -98,14 +98,14 @@
     },
     {
       "frage": "Berechne: (2 + 6)²",
-      "antworten": ["4 + 32 + 36", "4 + 28 + 36", "4 + 32 + 36"],
+      "antworten": ["4 + 24 + 36", "4 + 28 + 36", "4 + 32 + 36"],
       "richtig": 0,
       "hinweis": "1. binomische Formel"
     },
     {
       "frage": "Berechne: (9 - 2)²",
       "antworten": ["81 - 36 + 4", "81 - 36 + 49", "81 - 36 + 16"],
-      "richtig": 2,
+      "richtig": 0,
       "hinweis": "2. binomische Formel"
     },
     {
@@ -123,7 +123,7 @@
     {
       "frage": "Berechne: (7 - 3)²",
       "antworten": ["49 - 42 + 9", "49 - 36 + 9", "49 - 42 + 16"],
-      "richtig": 1,
+      "richtig": 0,
       "hinweis": "2. binomische Formel"
     },
     {
@@ -153,7 +153,7 @@
     {
       "frage": "Berechne: (1 + 2)²",
       "antworten": ["1 + 4 + 4", "1 + 4 + 1", "1 + 6 + 4"],
-      "richtig": 2,
+      "richtig": 0,
       "hinweis": "1. binomische Formel"
     },
     {

@@ -1,0 +1,188 @@
+{
+  "leicht": [
+    {
+      "frage": "Löse: x + 3 = 7",
+      "antworten": ["x = 4", "x = 10", "x = -4"],
+      "richtig": 0,
+      "hinweis": "Subtrahiere 3 auf beiden Seiten."
+    },
+    {
+      "frage": "Löse: 2x = 10",
+      "antworten": ["x = -5", "x = 8", "x = 5"],
+      "richtig": 2,
+      "hinweis": "Teile beide Seiten durch 2."
+    },
+    {
+      "frage": "Löse: x - 5 = 2",
+      "antworten": ["x = 3", "x = 7", "x = -7"],
+      "richtig": 1,
+      "hinweis": "Addiere 5 zu beiden Seiten."
+    },
+    {
+      "frage": "Löse: 4x = 20",
+      "antworten": ["x = 5", "x = 6", "x = -5"],
+      "richtig": 0,
+      "hinweis": "Teile durch 4."
+    },
+    {
+      "frage": "Löse: x / 3 = 4",
+      "antworten": ["x = 12", "x = 7", "x = -12"],
+      "richtig": 0,
+      "hinweis": "Multipliziere mit 3."
+    },
+    {
+      "frage": "Löse: 3x + 2 = 8",
+      "antworten": ["x = 3", "x = 2", "x = -2"],
+      "richtig": 1,
+      "hinweis": "Subtrahiere 2, dann teile durch 3."
+    },
+    {
+      "frage": "Löse: 5x - 10 = 0",
+      "antworten": ["x = 10", "x = -2", "x = 2"],
+      "richtig": 2,
+      "hinweis": "Addiere 10 und teile durch 5."
+    },
+    {
+      "frage": "Löse: -x = 4",
+      "antworten": ["x = 4", "x = -4", "x = 0"],
+      "richtig": 1,
+      "hinweis": "Multipliziere mit -1."
+    },
+    {
+      "frage": "Löse: x + 0 = 9",
+      "antworten": ["x = 9", "x = 0", "x = -9"],
+      "richtig": 0,
+      "hinweis": "Der Wert von x ist direkt sichtbar."
+    },
+    {
+      "frage": "Löse: 6x = -12",
+      "antworten": ["x = 2", "x = -2", "x = 12"],
+      "richtig": 1,
+      "hinweis": "Teile beide Seiten durch 6."
+    }
+  ],
+  "mittel": [
+    {
+      "frage": "Löse: 2x + 5 = 17",
+      "antworten": ["x = -6", "x = 11", "x = 6"],
+      "richtig": 2,
+      "hinweis": "Subtrahiere 5, dann teile durch 2."
+    },
+    {
+      "frage": "Löse: 3x - 7 = 2x + 4",
+      "antworten": ["x = 11/5", "x = 11", "x = -3"],
+      "richtig": 1,
+      "hinweis": "Bringe alle x-Terme auf eine Seite."
+    },
+    {
+      "frage": "Löse: 4(x - 2) = 12",
+      "antworten": ["x = 5", "x = 2", "x = -5"],
+      "richtig": 0,
+      "hinweis": "Teile zuerst durch 4."
+    },
+    {
+      "frage": "Löse: (x + 3) / 2 = 6",
+      "antworten": ["x = 12", "x = -9", "x = 9"],
+      "richtig": 2,
+      "hinweis": "Multipliziere mit 2, dann subtrahiere 3."
+    },
+    {
+      "frage": "Löse: 7x + 5 = 3x + 21",
+      "antworten": ["x = 6", "x = 4", "x = -4"],
+      "richtig": 1,
+      "hinweis": "Bringe alle x auf eine Seite, Zahlen auf die andere."
+    },
+    {
+      "frage": "Löse: 5 - 2x = 11",
+      "antworten": ["x = -3", "x = 3", "x = -8"],
+      "richtig": 0,
+      "hinweis": "Subtrahiere 5, dann dividiere durch -2."
+    },
+    {
+      "frage": "Löse: -3(x - 4) = 9",
+      "antworten": ["x = 7", "x = -1", "x = 1"],
+      "richtig": 2,
+      "hinweis": "Teile durch -3 und addiere 4."
+    },
+    {
+      "frage": "Löse: (2x - 1) / 5 = 3",
+      "antworten": ["x = 8", "x = 7", "x = -7"],
+      "richtig": 1,
+      "hinweis": "Multipliziere mit 5, dann addiere 1 und teile durch 2."
+    },
+    {
+      "frage": "Löse: 0.5x + 3 = 5",
+      "antworten": ["x = 4", "x = -2", "x = 2"],
+      "richtig": 0,
+      "hinweis": "Subtrahiere 3, dann dividiere durch 0.5."
+    },
+    {
+      "frage": "Löse: 9 - x = 4",
+      "antworten": ["x = 5", "x = -5", "x = 13"],
+      "richtig": 0,
+      "hinweis": "Subtrahiere 9 und multipliziere mit -1."
+    }
+  ],
+  "schwer": [
+    {
+      "frage": "Löse: (x - 4) / 2 + 5 = 10",
+      "antworten": ["x = 4", "x = 6", "x = 14"],
+      "richtig": 2,
+      "hinweis": "Subtrahiere 5, multipliziere mit 2, dann addiere 4."
+    },
+    {
+      "frage": "Löse: 2(x - 3) - 4(x + 1) = 6",
+      "antworten": ["x = -8", "x = 6", "x = -3"],
+      "richtig": 0,
+      "hinweis": "Multipliziere aus und fasse Terme zusammen."
+    },
+    {
+      "frage": "Löse: (5x + 2) / 3 - (x - 1) / 2 = 4",
+      "antworten": ["x = 2", "x = 17/7", "x = -4"],
+      "richtig": 1,
+      "hinweis": "Finde den Hauptnenner, fasse zusammen."
+    },
+    {
+      "frage": "Löse: 0.2x - 0.5 = 1.5",
+      "antworten": ["x = 8", "x = 10", "x = -10"],
+      "richtig": 1,
+      "hinweis": "Addiere 0.5, dann teile durch 0.2."
+    },
+    {
+      "frage": "Löse: 3(x + 2) = 2(x - 5) + 19",
+      "antworten": ["x = 5", "x = -5", "x = 3"],
+      "richtig": 2,
+      "hinweis": "Multipliziere aus und bringe alle x auf eine Seite."
+    },
+    {
+      "frage": "Löse: (x - 1)/4 + (x + 3)/6 = 5",
+      "antworten": ["x = 13", "x = 57/5", "x = -7"],
+      "richtig": 1,
+      "hinweis": "Nutze 12 als Hauptnenner oder multipliziere zuerst mit 4, dann mit 6."
+    },
+    {
+      "frage": "Löse: 7 - (3x - 4) = 2x + 6",
+      "antworten": ["x = 1", "x = -1", "x = 5"],
+      "richtig": 0,
+      "hinweis": "Achte auf das Minus vor der Klammer."
+    },
+    {
+      "frage": "Löse: 4 - (2x + 3) = -x + 5",
+      "antworten": ["x = 4", "x = -4", "x = 1"],
+      "richtig": 1,
+      "hinweis": "Multipliziere das Minus aus und fasse zusammen."
+    },
+    {
+      "frage": "Löse: (x + 4)/5 - (x - 2)/3 = 1",
+      "antworten": ["x = 7/2", "x = 5/3", "x = 10"],
+      "richtig": 0,
+      "hinweis": "Multipliziere mit dem Hauptnenner 15 oder zuerst mit 5 und dann mit 3."
+    },
+    {
+      "frage": "Löse: 0.25(x - 8) = 2",
+      "antworten": ["x = 16", "x = 8", "x = -8"],
+      "richtig": 0,
+      "hinweis": "Teile durch 0.25, dann addiere 8."
+    }
+  ]
+}

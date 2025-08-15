@@ -1,0 +1,256 @@
+{
+  "leicht": [
+    {
+      "frage": "Löse: x² = 9",
+      "antworten": ["x = ±3", "x = 3", "x = -3"],
+      "richtig": 0,
+      "hinweis": "Ziehe die Quadratwurzel."
+    },
+    {
+      "frage": "Löse: x² - 4 = 0",
+      "antworten": ["x = ±2", "x = 2", "x = -2"],
+      "richtig": 0,
+      "hinweis": "Forme zu x² = 4 um."
+    },
+    {
+      "frage": "Löse: x² + 5x + 6 = 0",
+      "antworten": [
+        "x = -2 oder x = -3",
+        "x = 2 oder x = 3",
+        "x = -1 oder x = -6"
+      ],
+      "richtig": 0,
+      "hinweis": "Faktorisieren in (x+2)(x+3)."
+    },
+    {
+      "frage": "Löse: x² - x - 6 = 0",
+      "antworten": [
+        "x = 3 oder x = -2",
+        "x = 2 oder x = -3",
+        "x = -1 oder x = 6"
+      ],
+      "richtig": 0,
+      "hinweis": "Finde zwei Zahlen, deren Produkt -6 und Summe -1 ist."
+    },
+    {
+      "frage": "Löse: x² + 7x + 10 = 0",
+      "antworten": [
+        "x = -5 oder x = -2",
+        "x = 5 oder x = 2",
+        "x = -1 oder x = -10"
+      ],
+      "richtig": 0,
+      "hinweis": "Faktorisieren in (x+5)(x+2)."
+    },
+    {
+      "frage": "Löse: x² - 16 = 0",
+      "antworten": ["x = ±4", "x = 4", "x = -4"],
+      "richtig": 0,
+      "hinweis": "Differenz von Quadraten."
+    },
+    {
+      "frage": "Löse: (x - 3)(x + 2) = 0",
+      "antworten": [
+        "x = 3 oder x = -2",
+        "x = -3 oder x = 2",
+        "x = 2 oder x = -2"
+      ],
+      "richtig": 0,
+      "hinweis": "Nullproduktregel anwenden."
+    },
+    {
+      "frage": "Löse: x² + 2x = 0",
+      "antworten": [
+        "x = 0 oder x = -2",
+        "x = 0 oder x = 2",
+        "x = -1 oder x = 1"
+      ],
+      "richtig": 0,
+      "hinweis": "x ausklammern."
+    },
+    {
+      "frage": "Löse: x² - 25 = 0",
+      "antworten": ["x = ±5", "x = 5", "x = -5"],
+      "richtig": 0,
+      "hinweis": "Differenz von Quadraten."
+    },
+    {
+      "frage": "Löse: x² + 4x + 4 = 0",
+      "antworten": ["x = -2", "x = 2", "x = 0"],
+      "richtig": 0,
+      "hinweis": "Binomische Formel."
+    }
+  ],
+  "mittel": [
+    {
+      "frage": "Löse: 2x² - 8 = 0",
+      "antworten": ["x = ±2", "x = ±4", "x = 2 oder x = -1"],
+      "richtig": 0,
+      "hinweis": "Teile durch 2, dann Wurzel ziehen."
+    },
+    {
+      "frage": "Löse: x² + 3x - 10 = 0",
+      "antworten": [
+        "x = 2 oder x = -5",
+        "x = 5 oder x = -2",
+        "x = -3 oder x = 10"
+      ],
+      "richtig": 0,
+      "hinweis": "Finde zwei Zahlen mit Produkt -10 und Summe 3."
+    },
+    {
+      "frage": "Löse: 3x² - 12x = 0",
+      "antworten": [
+        "x = 0 oder x = 4",
+        "x = 0 oder x = -4",
+        "x = 4 oder x = -4"
+      ],
+      "richtig": 0,
+      "hinweis": "x ausklammern."
+    },
+    {
+      "frage": "Löse: 4x² - 9 = 0",
+      "antworten": ["x = ±1.5", "x = ±2", "x = ±3"],
+      "richtig": 0,
+      "hinweis": "Differenz von Quadraten: (2x - 3)(2x + 3)."
+    },
+    {
+      "frage": "Löse: x² - 2x - 15 = 0",
+      "antworten": [
+        "x = 5 oder x = -3",
+        "x = 3 oder x = -5",
+        "x = -1 oder x = -15"
+      ],
+      "richtig": 0,
+      "hinweis": "Faktorisieren."
+    },
+    {
+      "frage": "Löse: x² = 0",
+      "antworten": ["x = 0", "x = ±1", "x = ±2"],
+      "richtig": 0,
+      "hinweis": "Nur eine Lösung."
+    },
+    {
+      "frage": "Löse: 5x² - 45 = 0",
+      "antworten": ["x = ±3", "x = ±9", "x = ±5"],
+      "richtig": 0,
+      "hinweis": "Teile durch 5, dann Wurzel ziehen."
+    },
+    {
+      "frage": "Löse: 2x² + 4x - 6 = 0",
+      "antworten": [
+        "x = 1 oder x = -3",
+        "x = 3 oder x = -1",
+        "x = -1 oder x = -3"
+      ],
+      "richtig": 0,
+      "hinweis": "Mit Mitternachtsformel lösen."
+    },
+    {
+      "frage": "Löse: 0.5x² - 2 = 0",
+      "antworten": ["x = ±2", "x = ±4", "x = ±1"],
+      "richtig": 0,
+      "hinweis": "Multipliziere mit 2, dann Wurzel ziehen."
+    },
+    {
+      "frage": "Löse: x² + x - 20 = 0",
+      "antworten": [
+        "x = 4 oder x = -5",
+        "x = 5 oder x = -4",
+        "x = -2 oder x = 10"
+      ],
+      "richtig": 0,
+      "hinweis": "Faktorisieren."
+    }
+  ],
+  "schwer": [
+    {
+      "frage": "Löse: 2x² + 3x - 5 = 0",
+      "antworten": [
+        "x = 1 oder x = -2.5",
+        "x = 2 oder x = -1.5",
+        "x = 1.5 oder x = -2"
+      ],
+      "richtig": 0,
+      "hinweis": "Mitternachtsformel nutzen."
+    },
+    {
+      "frage": "Löse: 4x² - 4x + 1 = 0",
+      "antworten": ["x = 0.5", "x = -0.5", "x = 1"],
+      "richtig": 0,
+      "hinweis": "Quadrat vervollständigen."
+    },
+    {
+      "frage": "Löse: 3x² + 2x - 8 = 0",
+      "antworten": [
+        "x = 4/3 oder x = -2",
+        "x = 2 oder x = -4/3",
+        "x = -2 oder x = -4/3"
+      ],
+      "richtig": 0,
+      "hinweis": "Mitternachtsformel anwenden."
+    },
+    {
+      "frage": "Löse: 5x² - 6x + 1 = 0",
+      "antworten": [
+        "x = 1 oder x = 0.2",
+        "x = 0.5 oder x = 0.4",
+        "x = 0.6 oder x = 0.2"
+      ],
+      "richtig": 0,
+      "hinweis": "Mitternachtsformel."
+    },
+    {
+      "frage": "Löse: 0.25x² - x + 1 = 0",
+      "antworten": ["x = 2", "x = ±2", "x = 4 oder x = 1"],
+      "richtig": 0,
+      "hinweis": "Mitternachtsformel mit a = 0.25."
+    },
+    {
+      "frage": "Löse: 6x² + 5x - 4 = 0",
+      "antworten": [
+        "x = 0.5 oder x = -1.333",
+        "x = 1.333 oder x = -0.5",
+        "x = 2 oder x = -2"
+      ],
+      "richtig": 0,
+      "hinweis": "Mitternachtsformel."
+    },
+    {
+      "frage": "Löse: x² - 3x + 2.25 = 0",
+      "antworten": ["x = 1.5", "x = -1.5", "x = 3"],
+      "richtig": 0,
+      "hinweis": "Alles * 100, dann Mitternachtsformel."
+    },
+    {
+      "frage": "Löse: 7x² + x - 6 = 0",
+      "antworten": [
+        "x = 1 oder x = -6/7",
+        "x = 6/7 oder x = -1",
+        "x = -1 oder x = -6/7"
+      ],
+      "richtig": 1,
+      "hinweis": "Mitternachtsformel."
+    },
+    {
+      "frage": "Löse: 2x² - 5x + 2 = 0",
+      "antworten": [
+        "x = 2 oder x = 0.5",
+        "x = 0.5 oder x = -2",
+        "x = -0.5 oder x = 2"
+      ],
+      "richtig": 0,
+      "hinweis": "Mitternachtsformel."
+    },
+    {
+      "frage": "Löse: 3x² - 4x + 4 = 0",
+      "antworten": [
+        "keine reelle Lösung",
+        "x = 2 oder x = -2",
+        "x = 4 oder x = -4"
+      ],
+      "richtig": 0,
+      "hinweis": "Diskriminante ist negativ."
+    }
+  ]
+}

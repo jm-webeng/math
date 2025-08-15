@@ -32,7 +32,7 @@
     },
     {
       "frage": "Was ist 2/3 × 3/4?",
-      "antworten": ["6/12", "6/7", "1/12"],
+      "antworten": ["1/2", "6/7", "1/12"],
       "richtig": 0,
       "hinweis": "Brüche werden direkt multipliziert, kürze das Ergebnis."
     },
@@ -68,8 +68,8 @@
     },
     {
       "frage": "Was ist 1/6 × 2?",
-      "antworten": ["2/6", "1/12", "1/3"],
-      "richtig": 0,
+      "antworten": ["1/6", "1/12", "1/3"],
+      "richtig": 2,
       "hinweis": "Ganze Zahl als Bruch schreiben."
     },
     {
@@ -86,7 +86,7 @@
     },
     {
       "frage": "Was ist 1/4 × 4?",
-      "antworten": ["1", "4/4", "2"],
+      "antworten": ["1", "4/16", "2"],
       "richtig": 0,
       "hinweis": "Bruch mal Ganze Zahl = Zähler mal Zahl."
     },
@@ -198,7 +198,7 @@
     {
       "frage": "Was ist 5/6 - 1/3?",
       "antworten": ["1/2", "2/3", "4/6"],
-      "richtig": 1,
+      "richtig": 0,
       "hinweis": "Erweitere 1/3 zu 2/6, dann subtrahiere."
     },
     {
@@ -221,13 +221,13 @@
     },
     {
       "frage": "Was ist 4/7 ÷ 2/3?",
-      "antworten": ["6/7", "8/21", "12/14"],
+      "antworten": ["6/7", "8/21", "14/12"],
       "richtig": 0,
       "hinweis": "Multipliziere mit dem Kehrwert von 2/3."
     },
     {
       "frage": "Was ist 6/8 + 3/4?",
-      "antworten": ["1 5/8", "1 3/8", "1 1/4"],
+      "antworten": ["1 5/8", "1 1/2", "1 1/4"],
       "richtig": 1,
       "hinweis": "6/8 = 3/4 → 3/4 + 3/4 = 6/4 = 1 2/4 = 1 1/2."
     },
@@ -258,7 +258,7 @@
     {
       "frage": "Was ist 7/8 + 5/8?",
       "antworten": ["1 1/2", "1 3/8", "2"],
-      "richtig": 1,
+      "richtig": 0,
       "hinweis": "7+5 = 12, 12/8 = 1 4/8 = 1 1/2"
     },
     {
@@ -288,7 +288,7 @@
     {
       "frage": "Was ist 3/4 × 2/3?",
       "antworten": ["6/12", "6/9", "1/2"],
-      "richtig": 0,
+      "richtig": 2,
       "hinweis": "3×2 = 6, 4×3 = 12 → kürze."
     },
     {
@@ -317,8 +317,8 @@
     },
     {
       "frage": "Was ist 5/6 + 1/3?",
-      "antworten": ["1 1/2", "1", "4/6"],
-      "richtig": 1,
+      "antworten": ["7/6", "1", "4/6"],
+      "richtig": 0,
       "hinweis": "1/3 = 2/6, 5/6 + 2/6 = 7/6 = 1 1/6"
     },
     {
@@ -330,7 +330,7 @@
     {
       "frage": "Was ist 5/8 - 1/2?",
       "antworten": ["1/8", "3/8", "2/8"],
-      "richtig": 1,
+      "richtig": 0,
       "hinweis": "1/2 = 4/8."
     },
     {
@@ -354,7 +354,7 @@
     {
       "frage": "Was ist 8/9 - 5/6?",
       "antworten": ["1/18", "7/18", "3/18"],
-      "richtig": 1,
+      "richtig": 0,
       "hinweis": "Hauptnenner: 18."
     },
     {
@@ -477,7 +477,7 @@
     {
       "frage": "Was ist (5/6 - 1/3) ÷ 1/2?",
       "antworten": ["2/3", "1", "4/3"],
-      "richtig": 2,
+      "richtig": 1,
       "hinweis": "5/6 - 1/3 = 3/6 = 1/2 → 1/2 ÷ 1/2 = 1"
     },
     {
@@ -495,13 +495,13 @@
     {
       "frage": "Was ist (7/8 - 1/4) ÷ 1/2?",
       "antworten": ["1 1/4", "1 3/4", "2"],
-      "richtig": 1,
+      "richtig": 0,
       "hinweis": "7/8 - 2/8 = 5/8 → 5/8 ÷ 1/2 = 10/8 = 1 2/8"
     },
     {
       "frage": "Ein Weg ist 2 1/2 km lang. Du gehst 2/5 davon. Wie viele km sind das?",
       "antworten": ["1", "1 1/4", "1 3/8"],
-      "richtig": 2,
+      "richtig": 0,
       "hinweis": "2 1/2 = 5/2, 5/2 × 2/5 = 10/10 = 1"
     },
     {

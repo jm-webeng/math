@@ -1,0 +1,206 @@
+{
+  "leicht": [
+    {
+      "frage": "Löse: x + y = 5 und x - y = 1",
+      "antworten": ["x = 3, y = 2", "x = 2, y = 3", "x = 4, y = 1"],
+      "richtig": 0,
+      "hinweis": "Addiere beide Gleichungen, um x zu finden."
+    },
+    {
+      "frage": "Löse: 2x + y = 7 und x + y = 4",
+      "antworten": ["x = 2, y = 2", "x = 4, y = 0", "x = 3, y = 1"],
+      "richtig": 2,
+      "hinweis": "Subtrahiere die zweite von der ersten Gleichung."
+    },
+    {
+      "frage": "Löse: x + 2y = 8 und x - y = 2",
+      "antworten": ["x = 4, y = 2", "x = 5, y = 1.5", "x = 3, y = 2.5"],
+      "richtig": 0,
+      "hinweis": "Addiere beide Gleichungen, um x zu finden."
+    },
+    {
+      "frage": "Löse: 3x + y = 10 und x + y = 6",
+      "antworten": ["x = 4, y = 2", "x = 2, y = 4", "x = 3, y = 3"],
+      "richtig": 1,
+      "hinweis": "Subtrahiere die zweite von der ersten Gleichung."
+    },
+    {
+      "frage": "Löse: x - y = 4 und x + y = 10",
+      "antworten": ["x = 7, y = 3", "x = 6, y = 4", "x = 8, y = 2"],
+      "richtig": 0,
+      "hinweis": "Addiere beide Gleichungen."
+    },
+    {
+      "frage": "Löse: 2x + 3y = 12 und x + y = 5",
+      "antworten": ["x = 3, y = 2", "x = 2, y = 3", "x = 4, y = 1"],
+      "richtig": 0,
+      "hinweis": "Nutze Substitution: y aus zweiter Gleichung einsetzen."
+    },
+    {
+      "frage": "Löse: x + y = 9 und x - y = 3",
+      "antworten": ["x = 5, y = 4", "x = 7, y = 2", "x = 6, y = 3"],
+      "richtig": 2,
+      "hinweis": "Addiere beide Gleichungen."
+    },
+    {
+      "frage": "Löse: 4x + y = 13 und x + y = 7",
+      "antworten": ["x = 2, y = 5", "x = 3, y = 4", "x = 4, y = 3"],
+      "richtig": 0,
+      "hinweis": "Subtrahiere die zweite von der ersten Gleichung."
+    },
+    {
+      "frage": "Löse: x - 2y = -1 und x + y = 8",
+      "antworten": ["x = 4, y = 4", "x = 5, y = 3", "x = 3, y = 5"],
+      "richtig": 1,
+      "hinweis": "Addiere ein Vielfaches der ersten Gleichung zur zweiten."
+    },
+    {
+      "frage": "Löse: 2x - y = 4 und x + y = 5",
+      "antworten": ["x = 4, y = 1", "x = 2, y = 3", "x = 3, y = 2"],
+      "richtig": 2,
+      "hinweis": "Addiere beide Gleichungen."
+    }
+  ],
+  "mittel": [
+    {
+      "frage": "Löse: 0.5x + y = 6 und x - y = 4",
+      "antworten": ["x = 8, y = 2", "x = 20/3, y = 8/3", "x = 10, y = -2"],
+      "richtig": 1,
+      "hinweis": "Multipliziere die erste Gleichung mit 2."
+    },
+    {
+      "frage": "Löse: 3x - 2y = 7 und 2x + y = 11",
+      "antworten": ["x = 5, y = 1", "x = 29/7, y = 19/7", "x = 58/7, y = 26/7"],
+      "richtig": 1,
+      "hinweis": "Multipliziere die 2. Gleichung mit 2 und nutze Addition."
+    },
+    {
+      "frage": "Löse: (x/2) + y = 5 und x - 3y = -1",
+      "antworten": ["x = 4, y = 3", "x = 28/5, y = 11/5", "x = 17/6, y = 12/5"],
+      "richtig": 1,
+      "hinweis": "Multipliziere die erste Gleichung mit 2."
+    },
+    {
+      "frage": "Löse: 4x + 5y = 20 und 2x - y = 1",
+      "antworten": [
+        "x = 1, y = 5",
+        "x = 18/7, y = 25/14",
+        "x = 25/14, y = 18/7"
+      ],
+      "richtig": 2,
+      "hinweis": "2. Gleichung * 3, dann Substitution."
+    },
+    {
+      "frage": "Löse: x + 0.25y = 5 und 3x - 0.5y = 10",
+      "antworten": ["x = 4, y = 4", "x = 5, y = 0", "x = 3, y = 8"],
+      "richtig": 0,
+      "hinweis": "1. Gleichung * 4, 2. Gleichung *2; dann Addition"
+    },
+    {
+      "frage": "Löse: 5x - 4y = 6 und x + y = 4",
+      "antworten": ["x = 2, y = 2", "x = 22/9, y = 14/9", "x = 36/9, y = 52/9"],
+      "richtig": 1,
+      "hinweis": "Substituiere y = 4 - x in die erste Gleichung."
+    },
+    {
+      "frage": "Löse: 1.5x + y = 7 und x - 2y = -4",
+      "antworten": ["x = 10/4, y = 13/4", "x = 15/6, y = 1.5", "x = 5, y = 1"],
+      "richtig": 0,
+      "hinweis": "1. Gliechung mit * 2, dann Addition."
+    },
+    {
+      "frage": "Löse: 7x + 2y = 16 und 3x - 2y = 4",
+      "antworten": ["x = 2, y = 1", "x = 1, y = 2", "x = 3, y = -2.5"],
+      "richtig": 0,
+      "hinweis": "Addiere beide Gleichungen."
+    },
+    {
+      "frage": "Löse: 0.2x - y = 1 und 0.4x + y = 5",
+      "antworten": ["x = 8, y = 1.4", "x = 6, y = 0.8", "x = 10, y = 1"],
+      "richtig": 2,
+      "hinweis": "Beide Gleichungen * 5, dann Addition."
+    }
+  ],
+  "schwer": [
+    {
+      "frage": "Löse: (3x - 2y)/4 = 5 und (x + y)/3 = 2",
+      "antworten": ["x = 4, y = 2", "x = 32/5, y = -2/5", "x = 52/5, y = 32/5"],
+      "richtig": 1,
+      "hinweis": "Multipliziere beide Gleichungen mit dem Hauptnenner."
+    },
+    {
+      "frage": "Löse: 2x - 3y = 7 und 4x + 5y = 1",
+      "antworten": [
+        "x = 19/11, y = -13/11",
+        "x ≈ 1,7273, y ≈ -1,1818",
+        "x = 21/11, y = 5/11"
+      ],
+      "richtig": 0,
+      "hinweis": "Gleichung 1 * 2, dann: Eliminiere x oder y durch Addition."
+    },
+    {
+      "frage": "Löse: 0.3x + 0.4y = 2 und 0.5x - 0.2y = 1",
+      "antworten": [
+        "x = 40/13, y = 35/13",
+        "x ≈ 3,0769, y ≈ 2,6923",
+        "x = 53/13, y = 21/13"
+      ],
+      "richtig": 0,
+      "hinweis": "Beseitige Dezimalzahlen durch Multiplikation."
+    },
+    {
+      "frage": "Löse: (x - 2y)/5 + (x + y)/2 = 7 und x - y = 3",
+      "antworten": [
+        "x = 73/8, y = 49/8",
+        "x ≈ 9,125, y ≈ 6,125",
+        "x = 9, y = 6"
+      ],
+      "richtig": 0,
+      "hinweis": "Kürze Brüche durch Hauptnenner."
+    },
+    {
+      "frage": "Löse: 3x/2 + 4y/3 = 5 und x - y/2 = 2",
+      "antworten": ["x = 3, y = 0.5", "x = 4, y = 1.5", "x = 2, y = 1"],
+      "richtig": 0,
+      "hinweis": "Eliminiere Brüche durch Multiplikation."
+    },
+    {
+      "frage": "Löse: 7x - 4y = 10 und -3x + 8y = 6",
+      "antworten": [
+        "x = 62/25, y = 24/25",
+        "x ≈ 12/7, y ≈ 15/4",
+        "x = 2.5, y = 1"
+      ],
+      "richtig": 0,
+      "hinweis": "Multipliziere und addiere, um eine Variable zu eliminieren."
+    },
+    {
+      "frage": "Löse: 5x/4 - y/3 = 1 und x/2 + y/6 = 2",
+      "antworten": ["x = 20/9, y = 16/3", "x ≈ 2, y ≈ 5", "x = 2, y = 5"],
+      "richtig": 0,
+      "hinweis": "Nutze den Hauptnenner zur Vereinfachung."
+    },
+    {
+      "frage": "Löse: (2x + y)/5 = 3 und (x - y)/2 = 1",
+      "antworten": ["x = 17/3, y = 11/3", "x ≈ 15/12, y ≈ 8/5", "x = 6, y = 4"],
+      "richtig": 0,
+      "hinweis": "Multipliziere und addiere."
+    },
+    {
+      "frage": "Löse: 0.1x + 0.2y = 1 und 0.3x - 0.4y = 2",
+      "antworten": ["x = 8, y = 1", "x = 8, y = 1", "x = 8, y = 1"],
+      "richtig": 0,
+      "hinweis": "Multipliziere, um Dezimalzahlen zu vermeiden."
+    },
+    {
+      "frage": "Löse: 9x + 4y = 20 und -2x + 7y = 1",
+      "antworten": [
+        "x = 136/71, y = 49/71",
+        "x ≈ 57/8, y ≈ 143/8",
+        "x = 2, y = 1"
+      ],
+      "richtig": 0,
+      "hinweis": "Eliminiere x durch Addition."
+    }
+  ]
+}
