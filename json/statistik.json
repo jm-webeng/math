@@ -1,0 +1,278 @@
+{
+  "leicht": [
+    {
+      "frage": "Welche grafische Darstellung zeigt die Entwicklung eines Aktienkurses über die Zeit am besten?",
+      "antworten": [
+        "Kreisdiagramm",
+        "Liniendiagramm",
+        "Säulendiagramm",
+        "Punktwolke"
+      ],
+      "richtig": 1,
+      "hinweis": "Zeitliche Entwicklungen werden mit Liniendiagrammen dargestellt."
+    },
+    {
+      "frage": "Was ist die absolute Häufigkeit?",
+      "antworten": [
+        "Anteil einer Kategorie an der Gesamtmenge",
+        "Anzahl der Beobachtungen einer Kategorie",
+        "Mittelwert der Beobachtungen",
+        "Streuungsmass"
+      ],
+      "richtig": 1,
+      "hinweis": "Absolute Häufigkeit = reine Anzahl."
+    },
+    {
+      "frage": "Was versteht man unter relativer Häufigkeit?",
+      "antworten": [
+        "Häufigkeit geteilt durch die Gesamtzahl",
+        "Absolute Häufigkeit minus 1",
+        "Immer 100 %",
+        "Standardabweichung"
+      ],
+      "richtig": 0,
+      "hinweis": "Relative Häufigkeit = Anteil an der Gesamtzahl."
+    },
+    {
+      "frage": "Welches Mass der zentralen Tendenz wird am häufigsten bei Renditen verwendet?",
+      "antworten": [
+        "Median",
+        "Modus",
+        "Arithmetisches Mittel",
+        "Geometrisches Mittel"
+      ],
+      "richtig": 2,
+      "hinweis": "Das arithmetische Mittel beschreibt den Durchschnitt."
+    },
+    {
+      "frage": "Wie nennt man das Risiko, dass ein Portfolio stark schwankt?",
+      "antworten": ["Rendite", "Diversifikation", "Volatilität", "Korrelation"],
+      "richtig": 2,
+      "hinweis": "Volatilität misst Schwankungen = Risiko."
+    },
+    {
+      "frage": "Welches Diagramm eignet sich für die Verteilung von Portfoliorenditen?",
+      "antworten": ["Histogramm", "Kreisdiagramm", "Liniendiagramm", "Boxplot"],
+      "richtig": 0,
+      "hinweis": "Histogramme zeigen Häufigkeitsverteilungen."
+    },
+    {
+      "frage": "Wenn ein Portfolio an 20 von 100 Tagen Verlust macht, wie hoch ist die relative Häufigkeit der Verlusttage?",
+      "antworten": ["0,8", "20 %", "80 %", "2"],
+      "richtig": 1,
+      "hinweis": "20 von 100 = 20 %."
+    },
+    {
+      "frage": "Wie nennt man den Wert, der am häufigsten vorkommt?",
+      "antworten": ["Median", "Modus", "Mittelwert", "Varianz"],
+      "richtig": 1,
+      "hinweis": "Der Modus ist der häufigste Wert."
+    },
+    {
+      "frage": "Welche Grösse misst die mittlere Abweichung von einem Mittelwert?",
+      "antworten": ["Median", "Modus", "Varianz", "Arithmetisches Mittel"],
+      "richtig": 2,
+      "hinweis": "Varianz ist die mittlere quadratische Abweichung."
+    },
+    {
+      "frage": "Was passiert bei Diversifikation?",
+      "antworten": [
+        "Risiko wird durch Mischung von Anlagen reduziert",
+        "Risiko wird automatisch erhöht",
+        "Mittelwert sinkt immer",
+        "Korrelation steigt immer"
+      ],
+      "richtig": 0,
+      "hinweis": "Diversifikation senkt Risiko durch Streuung."
+    }
+  ],
+  "mittel": [
+    {
+      "frage": "Ein Portfolio hat in 75 von 150 Tagen positive Rendite. Die relative Häufigkeit beträgt…",
+      "antworten": ["25 %", "50 %", "75 %", "100 %"],
+      "richtig": 1,
+      "hinweis": "75/150 = 0,5 = 50 %."
+    },
+    {
+      "frage": "Wenn Aktie A im Portfolio 30 % Gewicht hat, spricht man von…",
+      "antworten": ["Gliederungszahl", "Häufigkeit", "Varianz", "Median"],
+      "richtig": 0,
+      "hinweis": "Gliederungszahlen beschreiben Anteile am Ganzen."
+    },
+    {
+      "frage": "Was misst die Standardabweichung?",
+      "antworten": [
+        "Durchschnitt der Renditen",
+        "Streuung um den Mittelwert",
+        "Korrelation zwischen Renditen",
+        "Anteil am Portfolio"
+      ],
+      "richtig": 1,
+      "hinweis": "Standardabweichung = Mass für Schwankungen."
+    },
+    {
+      "frage": "Welches Streuungsmass ist das Quadrat der Standardabweichung?",
+      "antworten": ["Median", "Varianz", "Modus", "Spannweite"],
+      "richtig": 1,
+      "hinweis": "Varianz = (Standardabweichung)^2."
+    },
+    {
+      "frage": "Ein Balkendiagramm mit relativen Häufigkeiten von Renditekategorien wird auch genannt…",
+      "antworten": ["Histogramm", "Kreisdiagramm", "Boxplot", "Liniendiagramm"],
+      "richtig": 0,
+      "hinweis": "Histogramm = Darstellung von Häufigkeiten."
+    },
+    {
+      "frage": "Wenn zwei Aktien negativ korrelieren, bedeutet das…",
+      "antworten": [
+        "Sie steigen und fallen oft gemeinsam",
+        "Sie entwickeln sich meist entgegengesetzt",
+        "Sie haben keine Beziehung",
+        "Sie sind gleichgewichtet"
+      ],
+      "richtig": 1,
+      "hinweis": "Negative Korrelation = gegenläufige Bewegung."
+    },
+    {
+      "frage": "Warum ist Diversifikation hilfreich?",
+      "antworten": [
+        "Maximiert automatisch Rendite",
+        "Reduziert Risiko durch Korrelationseffekte",
+        "Verringert absolute Häufigkeiten",
+        "Verändert Mittelwert nicht"
+      ],
+      "richtig": 1,
+      "hinweis": "Diversifikation mindert Risiko durch Streuung."
+    },
+    {
+      "frage": "Wenn der Median der Renditen über dem Mittelwert liegt, deutet das oft auf…",
+      "antworten": [
+        "Rechtsschiefe Verteilung",
+        "Normalverteilung",
+        "Linksverteilung",
+        "Gleichverteilung"
+      ],
+      "richtig": 0,
+      "hinweis": "Bei Rechtsschiefe liegt Median über Mittelwert."
+    },
+    {
+      "frage": "Ein Portfolio mit geringer Varianz…",
+      "antworten": [
+        "Ist risikoärmer",
+        "Hat immer geringere Rendite",
+        "Ist schlechter diversifiziert",
+        "Hat immer hohe Korrelation"
+      ],
+      "richtig": 0,
+      "hinweis": "Kleinere Varianz = weniger Risiko."
+    },
+    {
+      "frage": "Welches Mass beschreibt die mittlere quadratische Abweichung vom Mittelwert?",
+      "antworten": ["Median", "Standardabweichung", "Varianz", "Modus"],
+      "richtig": 2,
+      "hinweis": "Varianz = mittlere quadratische Abweichung."
+    }
+  ],
+  "schwer": [
+    {
+      "frage": "Zwei Aktien haben eine Korrelation von +0,95. Das bedeutet…",
+      "antworten": [
+        "Sie entwickeln sich fast unabhängig",
+        "Sie bewegen sich fast gleich",
+        "Sie entwickeln sich entgegengesetzt",
+        "Sie haben keinen Zusammenhang"
+      ],
+      "richtig": 1,
+      "hinweis": "Korrelation nahe +1 = fast gleiche Entwicklung."
+    },
+    {
+      "frage": "Welche Korrelation ist für Diversifikation am vorteilhaftesten?",
+      "antworten": ["+1", "0", "–1", "+0,5"],
+      "richtig": 2,
+      "hinweis": "–1 = perfekte Gegenbewegung = maximale Diversifikation."
+    },
+    {
+      "frage": "Eine Normalverteilung hat μ = 0 %, σ = 2 %. Wahrscheinlichkeit, dass Rendite zwischen –2 % und +2 % liegt?",
+      "antworten": ["Ca. 68 %", "Ca. 50 %", "Ca. 95 %", "Ca. 99 %"],
+      "richtig": 0,
+      "hinweis": "±1σ umfasst etwa 68 % aller Werte."
+    },
+    {
+      "frage": "Wenn Renditen stark rechtsschief verteilt sind, dann…",
+      "antworten": [
+        "Median liegt über dem Mittelwert",
+        "Median liegt unter dem Mittelwert",
+        "Median = Mittelwert",
+        "Keine Aussage möglich"
+      ],
+      "richtig": 0,
+      "hinweis": "Rechtsschief = Mittelwert < Median."
+    },
+    {
+      "frage": "Welches Mass ist robust gegenüber Ausreissern?",
+      "antworten": [
+        "Median",
+        "Arithmetisches Mittel",
+        "Standardabweichung",
+        "Varianz"
+      ],
+      "richtig": 0,
+      "hinweis": "Median wird durch Ausreisser kaum beeinflusst."
+    },
+    {
+      "frage": "Warum ist ein Portfolio mit hoher durchschnittlicher Rendite nicht unbedingt besser?",
+      "antworten": [
+        "Weil hohe Rendite immer geringere Diversifikation bedeutet",
+        "Weil Risiko und Streuung berücksichtigt werden müssen",
+        "Weil Korrelation = 1 ist",
+        "Weil Varianz immer 0 ist"
+      ],
+      "richtig": 1,
+      "hinweis": "Hohe Rendite kann mit hohem Risiko einhergehen."
+    },
+    {
+      "frage": "Ein Portfolio zeigt hohe Varianz, aber niedrige Korrelation der Einzelwerte. Was bedeutet das?",
+      "antworten": [
+        "Risiko ist reduziert durch Diversifikation",
+        "Risiko ist erhöht durch Diversifikation",
+        "Portfolio ist unprofitabel",
+        "Korrelation ist ohne Bedeutung"
+      ],
+      "richtig": 0,
+      "hinweis": "Niedrige Korrelation senkt Gesamtrisiko trotz hoher Varianz."
+    },
+    {
+      "frage": "Die Sharpe Ratio vergleicht…",
+      "antworten": [
+        "Rendite mit Varianz",
+        "Überschussrendite mit Risiko",
+        "Median mit Modus",
+        "Absolute mit relative Häufigkeit"
+      ],
+      "richtig": 1,
+      "hinweis": "Sharpe Ratio = Renditeüberschuss pro Risikoeinheit."
+    },
+    {
+      "frage": "Wenn eine Aktie eine Standardabweichung von 10 % hat, bedeutet das…",
+      "antworten": [
+        "Rendite liegt zu 100 % im Bereich ±10 %",
+        "Rendite schwankt im Schnitt um 10 % um den Mittelwert",
+        "Rendite ist fix bei 10 %",
+        "Keine Aussage möglich"
+      ],
+      "richtig": 1,
+      "hinweis": "Standardabweichung misst typische Schwankung."
+    },
+    {
+      "frage": "Welche Aussage ist richtig?",
+      "antworten": [
+        "Hohe Korrelation bedeutet hohe Diversifikation",
+        "Negative Korrelation reduziert Risiko",
+        "Korrelation und Risiko sind unabhängig",
+        "Korrelation = Standardabweichung"
+      ],
+      "richtig": 1,
+      "hinweis": "Negative Korrelation verbessert Diversifikation und senkt Risiko."
+    }
+  ]
+}
